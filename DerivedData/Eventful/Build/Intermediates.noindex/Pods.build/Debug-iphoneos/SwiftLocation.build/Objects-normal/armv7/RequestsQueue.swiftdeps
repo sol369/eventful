@@ -1,0 +1,519 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RequestsQueueProtocol"
+- "RequestsQueue"
+provides-nominal:
+- "13SwiftLocation21RequestsQueueProtocolP"
+- "13SwiftLocation13RequestsQueueC"
+provides-member:
+- ["13SwiftLocation21RequestsQueueProtocolP", ""]
+- ["13SwiftLocation13RequestsQueueC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "<"
+- !private "=="
+- "Array"
+- !private "AssignmentPrecedence"
+- "Authorization"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CLHeading"
+- !private "CLLocation"
+- !private "CLRegionState"
+- "CastingPrecedence"
+- "CustomStringConvertible"
+- "Error"
+- !private "HeadingRequest"
+- "Int"
+- !private "LocationRequest"
+- !private "RegionEvent"
+- !private "RegionRequest"
+- "Request"
+- "RequestState"
+- "RequestsQueue"
+- "RequestsQueueProtocol"
+- "Sequence"
+- "Set"
+- "String"
+- !private "StringLiteralType"
+- !private "TernaryPrecedence"
+- "Void"
+- !private "||"
+depends-member:
+- !private ["13SwiftLocation13AuthorizationO", "none"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "Iterator"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["s7CVarArgP", "makeIterator"]
+- !private ["s7CVarArgP", "reduce"]
+- !private ["s7CVarArgP", "remove"]
+- ["s10CollectionP", "Iterator"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "insert"]
+- !private ["s10CollectionP", "makeIterator"]
+- !private ["s10CollectionP", "reduce"]
+- !private ["s10CollectionP", "remove"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "none"]
+- ["s28CustomDebugStringConvertibleP", "Iterator"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- !private ["s28CustomDebugStringConvertibleP", "makeIterator"]
+- !private ["s28CustomDebugStringConvertibleP", "reduce"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "Iterator"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s17CustomReflectableP", "makeIterator"]
+- !private ["s17CustomReflectableP", "reduce"]
+- !private ["s17CustomReflectableP", "remove"]
+- ["s23CustomStringConvertibleP", "Authorization"]
+- ["s23CustomStringConvertibleP", "Element"]
+- ["s23CustomStringConvertibleP", "Error"]
+- ["s23CustomStringConvertibleP", "Int"]
+- ["s23CustomStringConvertibleP", "Iterator"]
+- ["s23CustomStringConvertibleP", "PoolChange"]
+- ["s23CustomStringConvertibleP", "RequestState"]
+- ["s23CustomStringConvertibleP", "Set"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", "SubSequence"]
+- !private ["s23CustomStringConvertibleP", "T"]
+- ["s23CustomStringConvertibleP", "Void"]
+- ["s23CustomStringConvertibleP", "_copyContents"]
+- ["s23CustomStringConvertibleP", "_copyToContiguousArray"]
+- ["s23CustomStringConvertibleP", "_customContainsEquatableElement"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "_preprocessingPass"]
+- !private ["s23CustomStringConvertibleP", "_state"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "countPaused"]
+- ["s23CustomStringConvertibleP", "countRunning"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "dispatch"]
+- ["s23CustomStringConvertibleP", "drop"]
+- ["s23CustomStringConvertibleP", "dropFirst"]
+- ["s23CustomStringConvertibleP", "dropLast"]
+- ["s23CustomStringConvertibleP", "filter"]
+- ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- !private ["s23CustomStringConvertibleP", "isBackgroundRequest"]
+- !private ["s23CustomStringConvertibleP", "isPaused"]
+- !private ["s23CustomStringConvertibleP", "isQueued"]
+- !private ["s23CustomStringConvertibleP", "isRunning"]
+- !private ["s23CustomStringConvertibleP", "iterate"]
+- !private ["s23CustomStringConvertibleP", "list"]
+- ["s23CustomStringConvertibleP", "makeIterator"]
+- ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "none"]
+- ["s23CustomStringConvertibleP", "onAdd"]
+- ["s23CustomStringConvertibleP", "onRemove"]
+- ["s23CustomStringConvertibleP", "prefix"]
+- !private ["s23CustomStringConvertibleP", "reduce"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "requiredAuth"]
+- ["s23CustomStringConvertibleP", "requiredAuthorization"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- ["s23CustomStringConvertibleP", "resumeWaitingAuth"]
+- ["s23CustomStringConvertibleP", "set"]
+- ["s23CustomStringConvertibleP", "split"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- ["s23CustomStringConvertibleP", "suffix"]
+- ["s23CustomStringConvertibleP", "underestimatedCount"]
+- !private ["s23CustomStringConvertibleP", "waitingUserAuth"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s9DecodableP", "Iterator"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "insert"]
+- !private ["s9DecodableP", "makeIterator"]
+- !private ["s9DecodableP", "reduce"]
+- !private ["s9DecodableP", "remove"]
+- ["s9EncodableP", "Iterator"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "insert"]
+- !private ["s9EncodableP", "makeIterator"]
+- !private ["s9EncodableP", "reduce"]
+- !private ["s9EncodableP", "remove"]
+- ["s9EquatableP", "Iterator"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "_state"]
+- !private ["s9EquatableP", "contains"]
+- !private ["s9EquatableP", "count"]
+- !private ["s9EquatableP", "dispatch"]
+- !private ["s9EquatableP", "forEach"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "insert"]
+- !private ["s9EquatableP", "isBackgroundRequest"]
+- !private ["s9EquatableP", "isPaused"]
+- !private ["s9EquatableP", "isRunning"]
+- !private ["s9EquatableP", "makeIterator"]
+- !private ["s9EquatableP", "none"]
+- !private ["s9EquatableP", "reduce"]
+- !private ["s9EquatableP", "remove"]
+- !private ["s9EquatableP", "requiredAuth"]
+- !private ["s9EquatableP", "resume"]
+- !private ["s9EquatableP", "state"]
+- !private ["s9EquatableP", "waitingUserAuth"]
+- ["s25ExpressibleByArrayLiteralP", "Iterator"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["s25ExpressibleByArrayLiteralP", "makeIterator"]
+- !private ["s25ExpressibleByArrayLiteralP", "reduce"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s8HashableP", "Iterator"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_state"]
+- !private ["s8HashableP", "contains"]
+- !private ["s8HashableP", "count"]
+- !private ["s8HashableP", "dispatch"]
+- !private ["s8HashableP", "forEach"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "insert"]
+- !private ["s8HashableP", "isBackgroundRequest"]
+- !private ["s8HashableP", "isPaused"]
+- !private ["s8HashableP", "isRunning"]
+- !private ["s8HashableP", "makeIterator"]
+- !private ["s8HashableP", "none"]
+- !private ["s8HashableP", "reduce"]
+- !private ["s8HashableP", "remove"]
+- !private ["s8HashableP", "requiredAuth"]
+- !private ["s8HashableP", "resume"]
+- !private ["s8HashableP", "state"]
+- !private ["s8HashableP", "waitingUserAuth"]
+- !private ["13SwiftLocation14HeadingRequestC", "deinit"]
+- !private ["13SwiftLocation14HeadingRequestC", "dispatch"]
+- !private ["13SwiftLocation0B7RequestC", "_state"]
+- !private ["13SwiftLocation0B7RequestC", "deinit"]
+- !private ["13SwiftLocation0B7RequestC", "dispatch"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["13SwiftLocation13RegionRequestC", "deinit"]
+- !private ["13SwiftLocation13RegionRequestC", "dispatch"]
+- !private ["13SwiftLocation7RequestP", "_state"]
+- !private ["13SwiftLocation7RequestP", "dispatch"]
+- !private ["13SwiftLocation7RequestP", "isBackgroundRequest"]
+- !private ["13SwiftLocation7RequestP", "requiredAuth"]
+- !private ["13SwiftLocation7RequestP", "resume"]
+- !private ["13SwiftLocation7RequestP", "state"]
+- ["13SwiftLocation12RequestStateO", "deinit"]
+- !private ["13SwiftLocation12RequestStateO", "isPaused"]
+- !private ["13SwiftLocation12RequestStateO", "isRunning"]
+- !private ["13SwiftLocation12RequestStateO", "waitingUserAuth"]
+- ["13SwiftLocation13RequestsQueueC", "Authorization"]
+- ["13SwiftLocation13RequestsQueueC", "Bool"]
+- !private ["13SwiftLocation13RequestsQueueC", "CLHeading"]
+- !private ["13SwiftLocation13RequestsQueueC", "CLLocation"]
+- !private ["13SwiftLocation13RequestsQueueC", "CLRegionState"]
+- ["13SwiftLocation13RequestsQueueC", "Element"]
+- ["13SwiftLocation13RequestsQueueC", "Error"]
+- !private ["13SwiftLocation13RequestsQueueC", "HeadingRequest"]
+- ["13SwiftLocation13RequestsQueueC", "Int"]
+- ["13SwiftLocation13RequestsQueueC", "Iterator"]
+- !private ["13SwiftLocation13RequestsQueueC", "LocationRequest"]
+- !private ["13SwiftLocation13RequestsQueueC", "RegionEvent"]
+- !private ["13SwiftLocation13RequestsQueueC", "RegionRequest"]
+- ["13SwiftLocation13RequestsQueueC", "RequestState"]
+- ["13SwiftLocation13RequestsQueueC", "RequestsQueueProtocol"]
+- ["13SwiftLocation13RequestsQueueC", "Set"]
+- ["13SwiftLocation13RequestsQueueC", "String"]
+- ["13SwiftLocation13RequestsQueueC", "SubSequence"]
+- ["13SwiftLocation13RequestsQueueC", "T"]
+- ["13SwiftLocation13RequestsQueueC", "Void"]
+- ["13SwiftLocation13RequestsQueueC", "_copyContents"]
+- ["13SwiftLocation13RequestsQueueC", "_copyToContiguousArray"]
+- ["13SwiftLocation13RequestsQueueC", "_customContainsEquatableElement"]
+- ["13SwiftLocation13RequestsQueueC", "_preprocessingPass"]
+- ["13SwiftLocation13RequestsQueueC", "add"]
+- ["13SwiftLocation13RequestsQueueC", "count"]
+- ["13SwiftLocation13RequestsQueueC", "countPaused"]
+- ["13SwiftLocation13RequestsQueueC", "countRunning"]
+- ["13SwiftLocation13RequestsQueueC", "deinit"]
+- ["13SwiftLocation13RequestsQueueC", "description"]
+- ["13SwiftLocation13RequestsQueueC", "dispatch"]
+- ["13SwiftLocation13RequestsQueueC", "drop"]
+- ["13SwiftLocation13RequestsQueueC", "dropFirst"]
+- ["13SwiftLocation13RequestsQueueC", "dropLast"]
+- ["13SwiftLocation13RequestsQueueC", "filter"]
+- ["13SwiftLocation13RequestsQueueC", "forEach"]
+- ["13SwiftLocation13RequestsQueueC", "hasBackgroundRequests"]
+- ["13SwiftLocation13RequestsQueueC", "init"]
+- ["13SwiftLocation13RequestsQueueC", "isQueued"]
+- ["13SwiftLocation13RequestsQueueC", "iterate"]
+- ["13SwiftLocation13RequestsQueueC", "list"]
+- ["13SwiftLocation13RequestsQueueC", "makeIterator"]
+- ["13SwiftLocation13RequestsQueueC", "map"]
+- ["13SwiftLocation13RequestsQueueC", "onAdd"]
+- ["13SwiftLocation13RequestsQueueC", "onRemove"]
+- ["13SwiftLocation13RequestsQueueC", "prefix"]
+- ["13SwiftLocation13RequestsQueueC", "remove"]
+- ["13SwiftLocation13RequestsQueueC", "requiredAuthorization"]
+- ["13SwiftLocation13RequestsQueueC", "resumeWaitingAuth"]
+- ["13SwiftLocation13RequestsQueueC", "set"]
+- ["13SwiftLocation13RequestsQueueC", "split"]
+- ["13SwiftLocation13RequestsQueueC", "suffix"]
+- ["13SwiftLocation13RequestsQueueC", "underestimatedCount"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Authorization"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Element"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Error"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Int"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Iterator"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "PoolChange"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "RequestState"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Set"]
+- !private ["13SwiftLocation21RequestsQueueProtocolP", "String"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "SubSequence"]
+- !private ["13SwiftLocation21RequestsQueueProtocolP", "T"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "Void"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "_copyContents"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "_copyToContiguousArray"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "_customContainsEquatableElement"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "_preprocessingPass"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "count"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "countPaused"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "countRunning"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "description"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "dispatch"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "drop"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "dropFirst"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "dropLast"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "filter"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "forEach"]
+- !private ["13SwiftLocation21RequestsQueueProtocolP", "isQueued"]
+- !private ["13SwiftLocation21RequestsQueueProtocolP", "iterate"]
+- !private ["13SwiftLocation21RequestsQueueProtocolP", "list"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "makeIterator"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "map"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "onAdd"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "onRemove"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "prefix"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "requiredAuthorization"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "resumeWaitingAuth"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "set"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "split"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "suffix"]
+- ["13SwiftLocation21RequestsQueueProtocolP", "underestimatedCount"]
+- ["13SwiftLocation21RequestsQueueProtocolP", ""]
+- ["s8SequenceP", "Element"]
+- ["s8SequenceP", "Iterator"]
+- !private ["s8SequenceP", "RequestState"]
+- !private ["s8SequenceP", "String"]
+- ["s8SequenceP", "SubSequence"]
+- !private ["s8SequenceP", "T"]
+- ["s8SequenceP", "_copyContents"]
+- ["s8SequenceP", "_copyToContiguousArray"]
+- ["s8SequenceP", "_customContainsEquatableElement"]
+- ["s8SequenceP", "_preprocessingPass"]
+- !private ["s8SequenceP", "contains"]
+- ["s8SequenceP", "count"]
+- ["s8SequenceP", "countPaused"]
+- ["s8SequenceP", "countRunning"]
+- ["s8SequenceP", "description"]
+- ["s8SequenceP", "dispatch"]
+- ["s8SequenceP", "drop"]
+- ["s8SequenceP", "dropFirst"]
+- ["s8SequenceP", "dropLast"]
+- ["s8SequenceP", "filter"]
+- ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "insert"]
+- !private ["s8SequenceP", "isQueued"]
+- !private ["s8SequenceP", "iterate"]
+- !private ["s8SequenceP", "list"]
+- ["s8SequenceP", "makeIterator"]
+- ["s8SequenceP", "map"]
+- ["s8SequenceP", "onAdd"]
+- ["s8SequenceP", "onRemove"]
+- ["s8SequenceP", "prefix"]
+- !private ["s8SequenceP", "reduce"]
+- !private ["s8SequenceP", "remove"]
+- ["s8SequenceP", "requiredAuthorization"]
+- ["s8SequenceP", "resumeWaitingAuth"]
+- ["s8SequenceP", "set"]
+- ["s8SequenceP", "split"]
+- ["s8SequenceP", "suffix"]
+- ["s8SequenceP", "underestimatedCount"]
+- ["s8SequenceP", ""]
+- ["s3SetV", "Iterator"]
+- !private ["s3SetV", "contains"]
+- !private ["s3SetV", "count"]
+- !private ["s3SetV", "forEach"]
+- !private ["s3SetV", "insert"]
+- !private ["s3SetV", "makeIterator"]
+- !private ["s3SetV", "reduce"]
+- !private ["s3SetV", "remove"]
+- ["s10SetAlgebraP", "Iterator"]
+- !private ["s10SetAlgebraP", "contains"]
+- !private ["s10SetAlgebraP", "count"]
+- !private ["s10SetAlgebraP", "forEach"]
+- !private ["s10SetAlgebraP", "insert"]
+- !private ["s10SetAlgebraP", "makeIterator"]
+- !private ["s10SetAlgebraP", "reduce"]
+- !private ["s10SetAlgebraP", "remove"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "Iterator"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "forEach"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "insert"]
+- !private ["s10_IndexableP", "makeIterator"]
+- !private ["s10_IndexableP", "reduce"]
+- !private ["s10_IndexableP", "remove"]
+- ["s14_IndexableBaseP", "Iterator"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "insert"]
+- !private ["s14_IndexableBaseP", "makeIterator"]
+- !private ["s14_IndexableBaseP", "reduce"]
+- !private ["s14_IndexableBaseP", "remove"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "Iterator"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "makeIterator"]
+- !private ["s21_ObjectiveCBridgeableP", "reduce"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "13SwiftLocation13AuthorizationO"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "13SwiftLocation14HeadingRequestC"
+- !private "13SwiftLocation0B7RequestC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "13SwiftLocation13RegionRequestC"
+- !private "13SwiftLocation7RequestP"
+- "13SwiftLocation12RequestStateO"
+- "13SwiftLocation13RequestsQueueC"
+- "13SwiftLocation21RequestsQueueProtocolP"
+- "s8SequenceP"
+- "s3SetV"
+- "s10SetAlgebraP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/unextended-module.modulemap"
+interface-hash: "1a848d359a03ea122c37795c4f044ca0"

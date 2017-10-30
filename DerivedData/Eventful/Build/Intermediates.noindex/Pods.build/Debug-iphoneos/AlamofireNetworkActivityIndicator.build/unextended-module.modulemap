@@ -1,0 +1,10 @@
+framework module AlamofireNetworkActivityIndicator {
+  umbrella header "AlamofireNetworkActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AlamofireNetworkActivityIndicator.__Swift {
+    exclude header "AlamofireNetworkActivityIndicator-Swift.h"
+}

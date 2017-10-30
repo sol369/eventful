@@ -1,0 +1,333 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So16StorageReferenceC", ""]
+- ["So16StorageReferenceC", "dateFormatter"]
+- ["So16StorageReferenceC", "newPostVideoReference"]
+- ["So16StorageReferenceC", "newPostImageReference"]
+provides-dynamic-lookup:
+- "dateFormatter"
+- "newPostImageReference"
+- "newPostVideoReference"
+depends-top-level:
+- !private "Date"
+- "ISO8601DateFormatter"
+- !private "Storage"
+- "StorageReference"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- !private "User"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "Date"]
+- ["s7CVarArgP", "ISO8601DateFormatter"]
+- !private ["s7CVarArgP", "Storage"]
+- !private ["s7CVarArgP", "User"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "dateFormatter"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "storage"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "uid"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- ["s28CustomDebugStringConvertibleP", "ISO8601DateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "Storage"]
+- !private ["s28CustomDebugStringConvertibleP", "User"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormatter"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "storage"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "uid"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- ["s23CustomStringConvertibleP", "ISO8601DateFormatter"]
+- !private ["s23CustomStringConvertibleP", "Storage"]
+- !private ["s23CustomStringConvertibleP", "User"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "dateFormatter"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "storage"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "Date"]
+- ["s9EquatableP", "ISO8601DateFormatter"]
+- !private ["s9EquatableP", "Storage"]
+- !private ["s9EquatableP", "User"]
+- !private ["s9EquatableP", "child"]
+- !private ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "dateFormatter"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "reference"]
+- !private ["s9EquatableP", "storage"]
+- !private ["s9EquatableP", "string"]
+- !private ["s9EquatableP", "uid"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["So9FormatterC", "init"]
+- !private ["So9FormatterC", "string"]
+- !private ["s8HashableP", "Date"]
+- ["s8HashableP", "ISO8601DateFormatter"]
+- !private ["s8HashableP", "Storage"]
+- !private ["s8HashableP", "User"]
+- !private ["s8HashableP", "child"]
+- !private ["s8HashableP", "current"]
+- !private ["s8HashableP", "dateFormatter"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "reference"]
+- !private ["s8HashableP", "storage"]
+- !private ["s8HashableP", "string"]
+- !private ["s8HashableP", "uid"]
+- ["So20ISO8601DateFormatterC", "init"]
+- !private ["So20ISO8601DateFormatterC", "string"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "current"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "uid"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "Date"]
+- ["So8NSObjectC", "ISO8601DateFormatter"]
+- !private ["So8NSObjectC", "Storage"]
+- ["So8NSObjectC", "StorageReference"]
+- !private ["So8NSObjectC", "User"]
+- !private ["So8NSObjectC", "child"]
+- !private ["So8NSObjectC", "current"]
+- ["So8NSObjectC", "dateFormatter"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "newPostImageReference"]
+- ["So8NSObjectC", "newPostVideoReference"]
+- !private ["So8NSObjectC", "reference"]
+- !private ["So8NSObjectC", "storage"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "uid"]
+- !private ["So16NSObjectProtocolP", "Date"]
+- ["So16NSObjectProtocolP", "ISO8601DateFormatter"]
+- !private ["So16NSObjectProtocolP", "Storage"]
+- !private ["So16NSObjectProtocolP", "User"]
+- !private ["So16NSObjectProtocolP", "child"]
+- !private ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "dateFormatter"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "reference"]
+- !private ["So16NSObjectProtocolP", "storage"]
+- !private ["So16NSObjectProtocolP", "string"]
+- !private ["So16NSObjectProtocolP", "uid"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "string"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["So7StorageC", "reference"]
+- !private ["So7StorageC", "storage"]
+- !private ["So16StorageReferenceC", "Date"]
+- ["So16StorageReferenceC", "ISO8601DateFormatter"]
+- !private ["So16StorageReferenceC", "Storage"]
+- ["So16StorageReferenceC", "StorageReference"]
+- !private ["So16StorageReferenceC", "User"]
+- !private ["So16StorageReferenceC", "child"]
+- ["So16StorageReferenceC", "dateFormatter"]
+- ["So16StorageReferenceC", "newPostImageReference"]
+- ["So16StorageReferenceC", "newPostVideoReference"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["8Eventful4UserC", "current"]
+- !private ["8Eventful4UserC", "uid"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ISO8601DateFormatter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "User"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormatter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uid"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "So9FormatterC"
+- "s8HashableP"
+- "So20ISO8601DateFormatterC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "So7StorageC"
+- "So16StorageReferenceC"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "8Eventful4UserC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Modules/SwiftyCam.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Modules/SwiftLocation.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Modules/EZSwipeController.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Modules/AFDateHelper.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Modules/AlamofireNetworkActivityIndicator.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Modules/TextFieldEffects.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "ea2ecbd8fde2518779ae234d58245690"

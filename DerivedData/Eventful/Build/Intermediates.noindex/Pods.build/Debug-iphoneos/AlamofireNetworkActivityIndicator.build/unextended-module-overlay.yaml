@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AlamofireNetworkActivityIndicator.build/unextended-module.modulemap',
+    }]
+  }]
+}

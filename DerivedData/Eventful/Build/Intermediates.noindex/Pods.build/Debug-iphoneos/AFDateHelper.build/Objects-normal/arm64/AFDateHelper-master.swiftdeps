@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "ca548d924b2673a04f7f883a72e2b1aa"
+build_time: [1508702758, 171237000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/AFDateHelper/Sources/DateHelper.swift": [1505520225, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "dda68f8b9e8ad4d2a16336ea52cc48d5"
+build_time: [1509311829, 715886000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1504481818, 0]

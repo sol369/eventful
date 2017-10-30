@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "4b8f0a84d8fe7eb6d56bf8d97ff78d81"
+build_time: [1509311823, 275796000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/Accuracy.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/Extensions.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/Frequency.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/GeocoderRequest.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/HeadingRequest.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/IPService.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/LocationRequest.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/LocationTracker.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/RegionRequest.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/RequestsQueue.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/Shared.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/Structs.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SwiftLocation/Sources/SwiftLocation/VisitsRequest.swift": [1504481818, 0]

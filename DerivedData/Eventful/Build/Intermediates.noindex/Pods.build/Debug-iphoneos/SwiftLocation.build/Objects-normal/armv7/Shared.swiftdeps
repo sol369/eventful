@@ -1,0 +1,651 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Context"
+- "RequestState"
+- "Request"
+- "LocationError"
+- "Authorization"
+- "LocAuth"
+- "=="
+- "<"
+- "<="
+- ">"
+- ">="
+- "=="
+provides-nominal:
+- "13SwiftLocation7ContextO"
+- "13SwiftLocation12RequestStateO"
+- "13SwiftLocation7RequestP"
+- "13SwiftLocation0B5ErrorO"
+- "13SwiftLocation13AuthorizationO"
+- "13SwiftLocation7LocAuthO"
+provides-member:
+- ["13SwiftLocation7ContextO", ""]
+- ["13SwiftLocation12RequestStateO", ""]
+- ["13SwiftLocation7RequestP", ""]
+- ["13SwiftLocation0B5ErrorO", ""]
+- ["13SwiftLocation13AuthorizationO", ""]
+- ["13SwiftLocation7LocAuthO", ""]
+- ["So17CLLocationManagerC", ""]
+- ["So17CLLocationManagerC", "appAuthorization"]
+- ["So17CLLocationManagerC", "isBackgroundUpdateEnabled"]
+provides-dynamic-lookup:
+- "isBackgroundUpdateEnabled"
+depends-top-level:
+- !private "&&"
+- "<"
+- "<="
+- "=="
+- ">"
+- ">="
+- "AssignmentPrecedence"
+- "Authorization"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "Bundle"
+- "CLAuthorizationStatus"
+- "CLLocationManager"
+- "CastingPrecedence"
+- "Comparable"
+- "Context"
+- "CustomStringConvertible"
+- "DispatchQueue"
+- "Equatable"
+- "Error"
+- "Hashable"
+- "Int"
+- "LocAuth"
+- "LocationError"
+- !private "NSArray"
+- !private "NSDictionary"
+- "Request"
+- "RequestState"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["13SwiftLocation13AuthorizationO", "<"]
+- ["13SwiftLocation13AuthorizationO", "<="]
+- ["13SwiftLocation13AuthorizationO", "=="]
+- ["13SwiftLocation13AuthorizationO", ">"]
+- ["13SwiftLocation13AuthorizationO", ">="]
+- ["13SwiftLocation13AuthorizationO", "Authorization"]
+- ["13SwiftLocation13AuthorizationO", "Bool"]
+- ["13SwiftLocation13AuthorizationO", "Int"]
+- ["13SwiftLocation13AuthorizationO", "String"]
+- ["13SwiftLocation13AuthorizationO", "always"]
+- ["13SwiftLocation13AuthorizationO", "both"]
+- ["13SwiftLocation13AuthorizationO", "deinit"]
+- ["13SwiftLocation13AuthorizationO", "description"]
+- ["13SwiftLocation13AuthorizationO", "hashValue"]
+- ["13SwiftLocation13AuthorizationO", "inuse"]
+- ["13SwiftLocation13AuthorizationO", "none"]
+- !private ["13SwiftLocation13AuthorizationO", "order"]
+- ["13SwiftLocation13AuthorizationO", "rawValue"]
+- !private ["s23BidirectionalCollectionP", "hashValue"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So6BundleC", "main"]
+- !private ["So6BundleC", "object"]
+- !private ["So6BundleC", "path"]
+- ["SC21CLAuthorizationStatusO", "authorizedAlways"]
+- ["SC21CLAuthorizationStatusO", "authorizedWhenInUse"]
+- ["SC21CLAuthorizationStatusO", "denied"]
+- ["SC21CLAuthorizationStatusO", "notDetermined"]
+- ["SC21CLAuthorizationStatusO", "restricted"]
+- ["So17CLLocationManagerC", "Authorization"]
+- ["So17CLLocationManagerC", "Bool"]
+- !private ["So17CLLocationManagerC", "Bundle"]
+- !private ["So17CLLocationManagerC", "NSArray"]
+- !private ["So17CLLocationManagerC", "NSDictionary"]
+- ["So17CLLocationManagerC", "appAuthorization"]
+- !private ["So17CLLocationManagerC", "authorizationStatus"]
+- ["So17CLLocationManagerC", "isBackgroundUpdateEnabled"]
+- !private ["So17CLLocationManagerC", "locationServicesEnabled"]
+- !private ["s7CVarArgP", "Authorization"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "NSDictionary"]
+- !private ["s7CVarArgP", "authorizationStatus"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "global"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "locationServicesEnabled"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "object"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "hashValue"]
+- !private ["s10CollectionP", "init"]
+- ["s10ComparableP", "always"]
+- ["s10ComparableP", "both"]
+- ["s10ComparableP", "description"]
+- ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- ["s10ComparableP", "inuse"]
+- ["s10ComparableP", "none"]
+- !private ["s10ComparableP", "order"]
+- !private ["s10ComparableP", "rawValue"]
+- ["s10ComparableP", ""]
+- ["13SwiftLocation7ContextO", "DispatchQueue"]
+- ["13SwiftLocation7ContextO", "background"]
+- ["13SwiftLocation7ContextO", "custom"]
+- ["13SwiftLocation7ContextO", "main"]
+- ["13SwiftLocation7ContextO", "queue"]
+- ["13SwiftLocation7ContextO", "userInitiated"]
+- ["13SwiftLocation7ContextO", "userInteractive"]
+- ["13SwiftLocation7ContextO", "utility"]
+- !private ["s28CustomDebugStringConvertibleP", "Authorization"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "NSDictionary"]
+- !private ["s28CustomDebugStringConvertibleP", "authorizationStatus"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "global"]
+- !private ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "locationServicesEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "Authorization"]
+- ["s23CustomStringConvertibleP", "Bool"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- ["s23CustomStringConvertibleP", "Error"]
+- !private ["s23CustomStringConvertibleP", "NSDictionary"]
+- ["s23CustomStringConvertibleP", "RequestState"]
+- ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "always"]
+- !private ["s23CustomStringConvertibleP", "authorizationStatus"]
+- ["s23CustomStringConvertibleP", "authorizedAlways"]
+- ["s23CustomStringConvertibleP", "authorizedWhenInUse"]
+- ["s23CustomStringConvertibleP", "both"]
+- ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- ["s23CustomStringConvertibleP", "denied"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "dispatch"]
+- ["s23CustomStringConvertibleP", "failed"]
+- !private ["s23CustomStringConvertibleP", "global"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "idle"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "inuse"]
+- ["s23CustomStringConvertibleP", "isBackgroundRequest"]
+- ["s23CustomStringConvertibleP", "isInQueue"]
+- !private ["s23CustomStringConvertibleP", "locationServicesEnabled"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- ["s23CustomStringConvertibleP", "name"]
+- ["s23CustomStringConvertibleP", "none"]
+- ["s23CustomStringConvertibleP", "notDetermined"]
+- !private ["s23CustomStringConvertibleP", "object"]
+- ["s23CustomStringConvertibleP", "onCancel"]
+- ["s23CustomStringConvertibleP", "onPause"]
+- ["s23CustomStringConvertibleP", "onResume"]
+- !private ["s23CustomStringConvertibleP", "order"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- ["s23CustomStringConvertibleP", "pause"]
+- ["s23CustomStringConvertibleP", "paused"]
+- !private ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "requiredAuth"]
+- ["s23CustomStringConvertibleP", "restricted"]
+- ["s23CustomStringConvertibleP", "resume"]
+- ["s23CustomStringConvertibleP", "running"]
+- ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "waitingUserAuth"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "hashValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["So14DispatchObjectC", "global"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "global"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EncodableP", "init"]
+- ["s9EquatableP", "Authorization"]
+- ["s9EquatableP", "Bool"]
+- !private ["s9EquatableP", "Bundle"]
+- !private ["s9EquatableP", "CLLocationManager"]
+- ["s9EquatableP", "Error"]
+- !private ["s9EquatableP", "LocAuth"]
+- !private ["s9EquatableP", "NSDictionary"]
+- ["s9EquatableP", "RequestState"]
+- ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "always"]
+- ["s9EquatableP", "alwaysAuthorized"]
+- !private ["s9EquatableP", "authorizationStatus"]
+- ["s9EquatableP", "authorizedAlways"]
+- ["s9EquatableP", "authorizedWhenInUse"]
+- !private ["s9EquatableP", "background"]
+- ["s9EquatableP", "both"]
+- ["s9EquatableP", "cancel"]
+- !private ["s9EquatableP", "contains"]
+- ["s9EquatableP", "denied"]
+- ["s9EquatableP", "description"]
+- !private ["s9EquatableP", "disabled"]
+- ["s9EquatableP", "dispatch"]
+- ["s9EquatableP", "failed"]
+- !private ["s9EquatableP", "global"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "idle"]
+- ["s9EquatableP", "inUseAuthorized"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "inuse"]
+- ["s9EquatableP", "isBackgroundRequest"]
+- ["s9EquatableP", "isInQueue"]
+- !private ["s9EquatableP", "locationServicesEnabled"]
+- !private ["s9EquatableP", "main"]
+- ["s9EquatableP", "name"]
+- ["s9EquatableP", "none"]
+- ["s9EquatableP", "notDetermined"]
+- !private ["s9EquatableP", "object"]
+- ["s9EquatableP", "onCancel"]
+- ["s9EquatableP", "onPause"]
+- ["s9EquatableP", "onResume"]
+- !private ["s9EquatableP", "order"]
+- !private ["s9EquatableP", "path"]
+- ["s9EquatableP", "pause"]
+- ["s9EquatableP", "paused"]
+- !private ["s9EquatableP", "rawValue"]
+- ["s9EquatableP", "requiredAuth"]
+- ["s9EquatableP", "restricted"]
+- ["s9EquatableP", "resume"]
+- ["s9EquatableP", "running"]
+- ["s9EquatableP", "state"]
+- !private ["s9EquatableP", "status"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "undetermined"]
+- !private ["s9EquatableP", "userInitiated"]
+- !private ["s9EquatableP", "userInteractive"]
+- !private ["s9EquatableP", "utility"]
+- ["s9EquatableP", "waitingUserAuth"]
+- ["s9EquatableP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "localizedDescription"]
+- ["s5ErrorP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hashValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s26ExpressibleByStringLiteralP", "hashValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hashValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- ["s8HashableP", "Authorization"]
+- ["s8HashableP", "Bool"]
+- !private ["s8HashableP", "Bundle"]
+- !private ["s8HashableP", "CLLocationManager"]
+- ["s8HashableP", "Error"]
+- !private ["s8HashableP", "LocAuth"]
+- !private ["s8HashableP", "NSDictionary"]
+- ["s8HashableP", "RequestState"]
+- ["s8HashableP", "String"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "always"]
+- ["s8HashableP", "alwaysAuthorized"]
+- !private ["s8HashableP", "authorizationStatus"]
+- ["s8HashableP", "authorizedAlways"]
+- ["s8HashableP", "authorizedWhenInUse"]
+- !private ["s8HashableP", "background"]
+- ["s8HashableP", "both"]
+- ["s8HashableP", "cancel"]
+- !private ["s8HashableP", "contains"]
+- ["s8HashableP", "denied"]
+- ["s8HashableP", "description"]
+- !private ["s8HashableP", "disabled"]
+- ["s8HashableP", "dispatch"]
+- ["s8HashableP", "failed"]
+- !private ["s8HashableP", "global"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "idle"]
+- ["s8HashableP", "inUseAuthorized"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "inuse"]
+- ["s8HashableP", "isBackgroundRequest"]
+- ["s8HashableP", "isInQueue"]
+- !private ["s8HashableP", "locationServicesEnabled"]
+- !private ["s8HashableP", "main"]
+- ["s8HashableP", "name"]
+- ["s8HashableP", "none"]
+- ["s8HashableP", "notDetermined"]
+- !private ["s8HashableP", "object"]
+- ["s8HashableP", "onCancel"]
+- ["s8HashableP", "onPause"]
+- ["s8HashableP", "onResume"]
+- !private ["s8HashableP", "order"]
+- !private ["s8HashableP", "path"]
+- ["s8HashableP", "pause"]
+- ["s8HashableP", "paused"]
+- !private ["s8HashableP", "rawValue"]
+- ["s8HashableP", "requiredAuth"]
+- ["s8HashableP", "restricted"]
+- ["s8HashableP", "resume"]
+- ["s8HashableP", "running"]
+- ["s8HashableP", "state"]
+- !private ["s8HashableP", "status"]
+- !private ["s8HashableP", "subscript"]
+- !private ["s8HashableP", "undetermined"]
+- !private ["s8HashableP", "userInitiated"]
+- !private ["s8HashableP", "userInteractive"]
+- !private ["s8HashableP", "utility"]
+- ["s8HashableP", "waitingUserAuth"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- ["13SwiftLocation7LocAuthO", "Bool"]
+- !private ["13SwiftLocation7LocAuthO", "CLLocationManager"]
+- ["13SwiftLocation7LocAuthO", "LocAuth"]
+- ["13SwiftLocation7LocAuthO", "__derived_enum_equals"]
+- ["13SwiftLocation7LocAuthO", "alwaysAuthorized"]
+- ["13SwiftLocation7LocAuthO", "deinit"]
+- ["13SwiftLocation7LocAuthO", "denied"]
+- ["13SwiftLocation7LocAuthO", "disabled"]
+- ["13SwiftLocation7LocAuthO", "hashValue"]
+- ["13SwiftLocation7LocAuthO", "inUseAuthorized"]
+- ["13SwiftLocation7LocAuthO", "isAuthorized"]
+- ["13SwiftLocation7LocAuthO", "restricted"]
+- ["13SwiftLocation7LocAuthO", "status"]
+- ["13SwiftLocation7LocAuthO", "undetermined"]
+- ["13SwiftLocation0B5ErrorO", "CLAuthorizationStatus"]
+- ["13SwiftLocation0B5ErrorO", "String"]
+- ["13SwiftLocation0B5ErrorO", "_code"]
+- ["13SwiftLocation0B5ErrorO", "_domain"]
+- ["13SwiftLocation0B5ErrorO", "_getEmbeddedNSError"]
+- ["13SwiftLocation0B5ErrorO", "_userInfo"]
+- ["13SwiftLocation0B5ErrorO", "authDidChange"]
+- ["13SwiftLocation0B5ErrorO", "authorizationDenided"]
+- ["13SwiftLocation0B5ErrorO", "backgroundModeNotSet"]
+- ["13SwiftLocation0B5ErrorO", "deinit"]
+- ["13SwiftLocation0B5ErrorO", "invalidData"]
+- ["13SwiftLocation0B5ErrorO", "missingAuthInInfoPlist"]
+- ["13SwiftLocation0B5ErrorO", "noData"]
+- ["13SwiftLocation0B5ErrorO", "other"]
+- ["13SwiftLocation0B5ErrorO", "requireAlwaysAuth"]
+- ["13SwiftLocation0B5ErrorO", "serviceNotAvailable"]
+- ["13SwiftLocation0B5ErrorO", "timeout"]
+- ["13SwiftLocation0B5ErrorO", "unknown"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So7NSArrayC", "contains"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "hashValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "subscript"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "hashValue"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "subscript"]
+- !private ["So12NSDictionaryC", "init"]
+- !private ["So12NSDictionaryC", "subscript"]
+- !private ["So17NSFastEnumerationP", "contains"]
+- !private ["So17NSFastEnumerationP", "init"]
+- !private ["So17NSFastEnumerationP", "subscript"]
+- !private ["So21NSItemProviderReadingP", "hashValue"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "hashValue"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "hashValue"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "subscript"]
+- ["So8NSObjectC", "Authorization"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "NSArray"]
+- !private ["So8NSObjectC", "NSDictionary"]
+- ["So8NSObjectC", "appAuthorization"]
+- !private ["So8NSObjectC", "authorizationStatus"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "global"]
+- !private ["So8NSObjectC", "hashValue"]
+- ["So8NSObjectC", "isBackgroundUpdateEnabled"]
+- !private ["So8NSObjectC", "locationServicesEnabled"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "object"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "subscript"]
+- !private ["So16NSObjectProtocolP", "Authorization"]
+- !private ["So16NSObjectProtocolP", "Bundle"]
+- !private ["So16NSObjectProtocolP", "NSDictionary"]
+- !private ["So16NSObjectProtocolP", "authorizationStatus"]
+- !private ["So16NSObjectProtocolP", "contains"]
+- !private ["So16NSObjectProtocolP", "global"]
+- !private ["So16NSObjectProtocolP", "hashValue"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "locationServicesEnabled"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "object"]
+- !private ["So16NSObjectProtocolP", "path"]
+- !private ["So16NSObjectProtocolP", "subscript"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "hashValue"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "subscript"]
+- !private ["So8NSStringC", "hashValue"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "hashValue"]
+- !private ["So9OS_objectC", "global"]
+- !private ["So9OS_objectC", "main"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "background"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "userInitiated"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "userInteractive"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "utility"]
+- !private ["s26RangeReplaceableCollectionP", "hashValue"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "authorizedAlways"]
+- ["s16RawRepresentableP", "authorizedWhenInUse"]
+- ["s16RawRepresentableP", "denied"]
+- ["s16RawRepresentableP", "notDetermined"]
+- ["s16RawRepresentableP", "restricted"]
+- ["13SwiftLocation7RequestP", "Authorization"]
+- ["13SwiftLocation7RequestP", "Bool"]
+- ["13SwiftLocation7RequestP", "Error"]
+- ["13SwiftLocation7RequestP", "RequestState"]
+- ["13SwiftLocation7RequestP", "String"]
+- ["13SwiftLocation7RequestP", "cancel"]
+- ["13SwiftLocation7RequestP", "dispatch"]
+- ["13SwiftLocation7RequestP", "isBackgroundRequest"]
+- ["13SwiftLocation7RequestP", "isInQueue"]
+- ["13SwiftLocation7RequestP", "name"]
+- ["13SwiftLocation7RequestP", "onCancel"]
+- ["13SwiftLocation7RequestP", "onPause"]
+- ["13SwiftLocation7RequestP", "onResume"]
+- ["13SwiftLocation7RequestP", "pause"]
+- ["13SwiftLocation7RequestP", "requiredAuth"]
+- ["13SwiftLocation7RequestP", "resume"]
+- ["13SwiftLocation7RequestP", "state"]
+- ["13SwiftLocation12RequestStateO", "=="]
+- ["13SwiftLocation12RequestStateO", "Bool"]
+- ["13SwiftLocation12RequestStateO", "Error"]
+- ["13SwiftLocation12RequestStateO", "Int"]
+- ["13SwiftLocation12RequestStateO", "RequestState"]
+- ["13SwiftLocation12RequestStateO", "String"]
+- ["13SwiftLocation12RequestStateO", "deinit"]
+- ["13SwiftLocation12RequestStateO", "description"]
+- ["13SwiftLocation12RequestStateO", "failed"]
+- ["13SwiftLocation12RequestStateO", "hashValue"]
+- ["13SwiftLocation12RequestStateO", "idle"]
+- ["13SwiftLocation12RequestStateO", "isPaused"]
+- ["13SwiftLocation12RequestStateO", "isRunning"]
+- ["13SwiftLocation12RequestStateO", "paused"]
+- ["13SwiftLocation12RequestStateO", "running"]
+- ["13SwiftLocation12RequestStateO", "waitingUserAuth"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "hashValue"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["SS", "hashValue"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "hashValue"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "hashValue"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "hashValue"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "hashValue"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hashValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hashValue"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "hashValue"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hashValue"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "hashValue"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hashValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "hashValue"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "hashValue"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Authorization"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSDictionary"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "authorizationStatus"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "global"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hashValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "locationServicesEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "object"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "hashValue"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "hashValue"]
+- !private ["s16_SwiftStringViewP", "hashValue"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "13SwiftLocation13AuthorizationO"
+- !private "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So6BundleC"
+- "SC21CLAuthorizationStatusO"
+- "So17CLLocationManagerC"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- "s10ComparableP"
+- "13SwiftLocation7ContextO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "Si"
+- "13SwiftLocation7LocAuthO"
+- "13SwiftLocation0B5ErrorO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So7NSArrayC"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So12NSDictionaryC"
+- !private "So17NSFastEnumerationP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "So9OS_objectC"
+- !private "8Dispatch0A3QoSV0B6SClassO"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "13SwiftLocation7RequestP"
+- "13SwiftLocation12RequestStateO"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/unextended-module.modulemap"
+interface-hash: "04d44abdff62e7f66493953a6a061f68"

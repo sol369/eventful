@@ -1,0 +1,241 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Accuracy"
+provides-nominal:
+- "13SwiftLocation8AccuracyO"
+provides-member:
+- ["13SwiftLocation8AccuracyO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "<"
+- !private "<="
+- "Accuracy"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CLLocation"
+- "CLLocationDistance"
+- "CustomStringConvertible"
+- "Double"
+- "IPService"
+- "Int"
+- "String"
+- !private "StringLiteralType"
+- !private "kCLLocationAccuracyBest"
+- !private "kCLLocationAccuracyBestForNavigation"
+- !private "kCLLocationAccuracyHundredMeters"
+- !private "kCLLocationAccuracyKilometer"
+- !private "kCLLocationAccuracyNearestTenMeters"
+- !private "kCLLocationAccuracyThreeKilometers"
+depends-member:
+- ["13SwiftLocation8AccuracyO", "Bool"]
+- ["13SwiftLocation8AccuracyO", "CLLocation"]
+- ["13SwiftLocation8AccuracyO", "CLLocationDistance"]
+- ["13SwiftLocation8AccuracyO", "Double"]
+- ["13SwiftLocation8AccuracyO", "IPScan"]
+- ["13SwiftLocation8AccuracyO", "IPService"]
+- ["13SwiftLocation8AccuracyO", "Int"]
+- ["13SwiftLocation8AccuracyO", "String"]
+- ["13SwiftLocation8AccuracyO", "any"]
+- ["13SwiftLocation8AccuracyO", "block"]
+- ["13SwiftLocation8AccuracyO", "city"]
+- ["13SwiftLocation8AccuracyO", "country"]
+- ["13SwiftLocation8AccuracyO", "deinit"]
+- ["13SwiftLocation8AccuracyO", "description"]
+- ["13SwiftLocation8AccuracyO", "house"]
+- ["13SwiftLocation8AccuracyO", "isValid"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyBest"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyBestForNavigation"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyHundredMeters"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyKilometer"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyNearestTenMeters"]
+- !private ["13SwiftLocation8AccuracyO", "kCLLocationAccuracyThreeKilometers"]
+- ["13SwiftLocation8AccuracyO", "level"]
+- ["13SwiftLocation8AccuracyO", "navigation"]
+- ["13SwiftLocation8AccuracyO", "neighborhood"]
+- ["13SwiftLocation8AccuracyO", "orderValue"]
+- ["13SwiftLocation8AccuracyO", "requestUserAuth"]
+- ["13SwiftLocation8AccuracyO", "room"]
+- ["13SwiftLocation8AccuracyO", "threshold"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s19BinaryFloatingPointP", "infinity"]
+- !private ["So10CLLocationC", "horizontalAccuracy"]
+- !private ["s7CVarArgP", "horizontalAccuracy"]
+- !private ["s7CVarArgP", "infinity"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "infinity"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "horizontalAccuracy"]
+- !private ["s28CustomDebugStringConvertibleP", "infinity"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "infinity"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "infinity"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- ["s23CustomStringConvertibleP", "IPScan"]
+- ["s23CustomStringConvertibleP", "any"]
+- ["s23CustomStringConvertibleP", "block"]
+- ["s23CustomStringConvertibleP", "city"]
+- ["s23CustomStringConvertibleP", "country"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "horizontalAccuracy"]
+- ["s23CustomStringConvertibleP", "house"]
+- !private ["s23CustomStringConvertibleP", "infinity"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyBest"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyBestForNavigation"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyHundredMeters"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyKilometer"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyNearestTenMeters"]
+- !private ["s23CustomStringConvertibleP", "kCLLocationAccuracyThreeKilometers"]
+- ["s23CustomStringConvertibleP", "navigation"]
+- ["s23CustomStringConvertibleP", "neighborhood"]
+- ["s23CustomStringConvertibleP", "room"]
+- !private ["s23CustomStringConvertibleP", "threshold"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "infinity"]
+- !private ["s9DecodableP", "init"]
+- !private ["Sd", "infinity"]
+- !private ["s9EncodableP", "infinity"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "horizontalAccuracy"]
+- !private ["s9EquatableP", "infinity"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "infinity"]
+- !private ["s27ExpressibleByIntegerLiteralP", "infinity"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s13FloatingPointP", "infinity"]
+- !private ["s8HashableP", "horizontalAccuracy"]
+- !private ["s8HashableP", "infinity"]
+- !private ["s8HashableP", "init"]
+- !private ["13SwiftLocation9IPServiceV", "deinit"]
+- !private ["s25LosslessStringConvertibleP", "infinity"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "horizontalAccuracy"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "horizontalAccuracy"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "horizontalAccuracy"]
+- !private ["So16NSObjectProtocolP", "horizontalAccuracy"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "horizontalAccuracy"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "infinity"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedNumericP", "infinity"]
+- !private ["s10StrideableP", "infinity"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s15_CVarArgAlignedP", "infinity"]
+- !private ["s22_CVarArgPassedAsDoubleP", "infinity"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "infinity"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "infinity"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "horizontalAccuracy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "infinity"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "infinity"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "13SwiftLocation8AccuracyO"
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "So10CLLocationC"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "Sd"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s13FloatingPointP"
+- !private "s8HashableP"
+- !private "13SwiftLocation9IPServiceV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/unextended-module.modulemap"
+interface-hash: "765013c2f42a61f73b7d54522294013a"

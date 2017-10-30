@@ -1,0 +1,464 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFDateHelper-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Headers/AFDateHelper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFDateHelper-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/AFDateHelper/AFDateHelper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AFDateHelper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireImage-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireImage-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AlamofireImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireNetworkActivityIndicator-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Headers/AlamofireNetworkActivityIndicator-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireNetworkActivityIndicator-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AlamofireNetworkActivityIndicator.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/DZNEmptyDataSet/DZNEmptyDataSet.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DZNEmptyDataSet-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/DZNEmptyDataSet/DZNEmptyDataSet.framework/Headers/DZNEmptyDataSet-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DZNEmptyDataSet-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/DZNEmptyDataSet/DZNEmptyDataSet-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+EmptyDataSet.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/DZNEmptyDataSet/Source/UIScrollView+EmptyDataSet.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/DZNEmptyDataSet/DZNEmptyDataSet.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/DZNEmptyDataSet.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EZSwipeController-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Headers/EZSwipeController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EZSwipeController-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/EZSwipeController/EZSwipeController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/EZSwipeController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Pods_Eventful.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Eventful-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/Pods-Eventful/Pods-Eventful-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Eventful-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Pods_Eventful.framework/Headers/Pods_Eventful-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Pods_Eventful.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-Eventful.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressAnimatedView.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVRadialGradientLayer.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SVProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftLocation-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Headers/SwiftLocation-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftLocation-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyCam-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Headers/SwiftyCam-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyCam-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftyCam/SwiftyCam-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyCam.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TextFieldEffects-Swift.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Headers/TextFieldEffects-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TextFieldEffects-umbrella.h",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/TextFieldEffects/TextFieldEffects-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/TextFieldEffects.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

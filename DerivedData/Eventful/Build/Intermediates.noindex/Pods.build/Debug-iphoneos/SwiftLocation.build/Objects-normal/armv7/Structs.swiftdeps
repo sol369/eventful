@@ -1,0 +1,259 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TrackerSettings"
+- "LastLocation"
+- "=="
+provides-nominal:
+- "13SwiftLocation15TrackerSettingsV"
+- "13SwiftLocation04LastB0V"
+- "SC21CLAuthorizationStatusO"
+provides-member:
+- ["13SwiftLocation15TrackerSettingsV", ""]
+- ["13SwiftLocation04LastB0V", ""]
+- ["SC21CLAuthorizationStatusO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "+="
+- "=="
+- !private ">"
+- "Accuracy"
+- "AssignmentPrecedence"
+- "Bool"
+- "CLActivityType"
+- "CLAuthorizationStatus"
+- "CLLocation"
+- "CLLocationDistance"
+- "CustomStringConvertible"
+- "Equatable"
+- "Frequency"
+- "LastLocation"
+- "String"
+- !private "StringLiteralType"
+- "TrackerSettings"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["13SwiftLocation8AccuracyO", "deinit"]
+- !private ["13SwiftLocation8AccuracyO", "orderValue"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["SC14CLActivityTypeO", "deinit"]
+- ["SC21CLAuthorizationStatusO", "String"]
+- ["SC21CLAuthorizationStatusO", "authorizedAlways"]
+- ["SC21CLAuthorizationStatusO", "authorizedWhenInUse"]
+- ["SC21CLAuthorizationStatusO", "deinit"]
+- ["SC21CLAuthorizationStatusO", "denied"]
+- ["SC21CLAuthorizationStatusO", "description"]
+- ["SC21CLAuthorizationStatusO", "notDetermined"]
+- ["SC21CLAuthorizationStatusO", "restricted"]
+- !private ["So10CLLocationC", "horizontalAccuracy"]
+- !private ["So10CLLocationC", "timestamp"]
+- !private ["s7CVarArgP", "horizontalAccuracy"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "timestamp"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "horizontalAccuracy"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "timestamp"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "accuracy"]
+- !private ["s23CustomStringConvertibleP", "activity"]
+- ["s23CustomStringConvertibleP", "authorizedAlways"]
+- ["s23CustomStringConvertibleP", "authorizedWhenInUse"]
+- ["s23CustomStringConvertibleP", "denied"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "distanceFilter"]
+- !private ["s23CustomStringConvertibleP", "frequency"]
+- !private ["s23CustomStringConvertibleP", "horizontalAccuracy"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "notDetermined"]
+- !private ["s23CustomStringConvertibleP", "orderValue"]
+- ["s23CustomStringConvertibleP", "restricted"]
+- !private ["s23CustomStringConvertibleP", "timestamp"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "accuracy"]
+- !private ["s9EquatableP", "activity"]
+- ["s9EquatableP", "authorizedAlways"]
+- ["s9EquatableP", "authorizedWhenInUse"]
+- ["s9EquatableP", "denied"]
+- ["s9EquatableP", "description"]
+- !private ["s9EquatableP", "distanceFilter"]
+- !private ["s9EquatableP", "frequency"]
+- !private ["s9EquatableP", "horizontalAccuracy"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "notDetermined"]
+- ["s9EquatableP", "restricted"]
+- !private ["s9EquatableP", "timestamp"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["13SwiftLocation9FrequencyO", "deinit"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "authorizedAlways"]
+- ["s8HashableP", "authorizedWhenInUse"]
+- ["s8HashableP", "denied"]
+- ["s8HashableP", "description"]
+- !private ["s8HashableP", "horizontalAccuracy"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "notDetermined"]
+- ["s8HashableP", "restricted"]
+- !private ["s8HashableP", "timestamp"]
+- ["13SwiftLocation04LastB0V", "CLLocation"]
+- ["13SwiftLocation04LastB0V", "bestAccurated"]
+- ["13SwiftLocation04LastB0V", "init"]
+- ["13SwiftLocation04LastB0V", "last"]
+- ["13SwiftLocation04LastB0V", "set"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "horizontalAccuracy"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "timestamp"]
+- !private ["So9NSCopyingP", "horizontalAccuracy"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "timestamp"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "horizontalAccuracy"]
+- !private ["So8NSObjectC", "timestamp"]
+- !private ["So16NSObjectProtocolP", "horizontalAccuracy"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "timestamp"]
+- !private ["So14NSSecureCodingP", "horizontalAccuracy"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "timestamp"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "authorizedAlways"]
+- ["s16RawRepresentableP", "authorizedWhenInUse"]
+- ["s16RawRepresentableP", "denied"]
+- ["s16RawRepresentableP", "description"]
+- ["s16RawRepresentableP", "notDetermined"]
+- ["s16RawRepresentableP", "restricted"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["13SwiftLocation15TrackerSettingsV", "=="]
+- ["13SwiftLocation15TrackerSettingsV", "Accuracy"]
+- ["13SwiftLocation15TrackerSettingsV", "Bool"]
+- ["13SwiftLocation15TrackerSettingsV", "CLActivityType"]
+- ["13SwiftLocation15TrackerSettingsV", "CLLocationDistance"]
+- ["13SwiftLocation15TrackerSettingsV", "Frequency"]
+- ["13SwiftLocation15TrackerSettingsV", "String"]
+- ["13SwiftLocation15TrackerSettingsV", "TrackerSettings"]
+- ["13SwiftLocation15TrackerSettingsV", "accuracy"]
+- ["13SwiftLocation15TrackerSettingsV", "activity"]
+- ["13SwiftLocation15TrackerSettingsV", "deinit"]
+- ["13SwiftLocation15TrackerSettingsV", "description"]
+- ["13SwiftLocation15TrackerSettingsV", "distanceFilter"]
+- ["13SwiftLocation15TrackerSettingsV", "frequency"]
+- ["13SwiftLocation15TrackerSettingsV", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "horizontalAccuracy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timestamp"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "13SwiftLocation8AccuracyO"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "SC14CLActivityTypeO"
+- "SC21CLAuthorizationStatusO"
+- !private "So10CLLocationC"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "13SwiftLocation9FrequencyO"
+- "s8HashableP"
+- "13SwiftLocation04LastB0V"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "13SwiftLocation15TrackerSettingsV"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/unextended-module.modulemap"
+interface-hash: "32a0d8b29659140605f90f715955783f"

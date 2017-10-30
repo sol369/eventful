@@ -1,0 +1,1063 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SearchHeader"
+provides-nominal:
+- "8Eventful12SearchHeaderC"
+provides-member:
+- ["8Eventful12SearchHeaderC", ""]
+provides-dynamic-lookup:
+- "searchBar"
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "CGRect"
+- "Dictionary"
+- "NSCoder"
+- !private "NSForegroundColorAttributeName"
+- "SearchHeader"
+- "StringLiteralType"
+- "UICollectionViewCell"
+- !private "UIColor"
+- !private "UIGraphicsBeginImageContext"
+- !private "UIGraphicsEndImageContext"
+- !private "UIGraphicsGetCurrentContext"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+- !private "UIImage"
+- "UISearchBar"
+- !private "UITextField"
+- !private "fatalError"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "CGRect"]
+- !private ["So15CALayerDelegateP", "NSForegroundColorAttributeName"]
+- !private ["So15CALayerDelegateP", "UIColor"]
+- !private ["So15CALayerDelegateP", "UIGraphicsBeginImageContext"]
+- !private ["So15CALayerDelegateP", "UIGraphicsEndImageContext"]
+- !private ["So15CALayerDelegateP", "UIGraphicsGetCurrentContext"]
+- !private ["So15CALayerDelegateP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So15CALayerDelegateP", "UISearchBar"]
+- !private ["So15CALayerDelegateP", "UITextField"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "anchor"]
+- !private ["So15CALayerDelegateP", "appearance"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "barTintColor"]
+- !private ["So15CALayerDelegateP", "bottomAnchor"]
+- !private ["So15CALayerDelegateP", "fatalError"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "leftAnchor"]
+- !private ["So15CALayerDelegateP", "placeholder"]
+- !private ["So15CALayerDelegateP", "rightAnchor"]
+- !private ["So15CALayerDelegateP", "scopeButtonTitles"]
+- !private ["So15CALayerDelegateP", "searchBar"]
+- !private ["So15CALayerDelegateP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So15CALayerDelegateP", "showsScopeBar"]
+- !private ["So15CALayerDelegateP", "topAnchor"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So9CGContextC", "fill"]
+- !private ["So9CGContextC", "setFillColor"]
+- !private ["SC6CGRectV", "init"]
+- !private ["SC6CGRectV", "size"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "NSForegroundColorAttributeName"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "UIGraphicsBeginImageContext"]
+- !private ["s7CVarArgP", "UIGraphicsEndImageContext"]
+- !private ["s7CVarArgP", "UIGraphicsGetCurrentContext"]
+- !private ["s7CVarArgP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s7CVarArgP", "UISearchBar"]
+- !private ["s7CVarArgP", "UITextField"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "anchor"]
+- !private ["s7CVarArgP", "appearance"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "barTintColor"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "bottomAnchor"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "leftAnchor"]
+- !private ["s7CVarArgP", "placeholder"]
+- !private ["s7CVarArgP", "rgb"]
+- !private ["s7CVarArgP", "rightAnchor"]
+- !private ["s7CVarArgP", "scopeButtonTitles"]
+- !private ["s7CVarArgP", "searchBar"]
+- !private ["s7CVarArgP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s7CVarArgP", "showsScopeBar"]
+- !private ["s7CVarArgP", "topAnchor"]
+- !private ["s7CVarArgP", "white"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "NSForegroundColorAttributeName"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsBeginImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsGetCurrentContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UISearchBar"]
+- !private ["s28CustomDebugStringConvertibleP", "UITextField"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "anchor"]
+- !private ["s28CustomDebugStringConvertibleP", "appearance"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "barTintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "bottomAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "leftAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "placeholder"]
+- !private ["s28CustomDebugStringConvertibleP", "rgb"]
+- !private ["s28CustomDebugStringConvertibleP", "rightAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "scopeButtonTitles"]
+- !private ["s28CustomDebugStringConvertibleP", "searchBar"]
+- !private ["s28CustomDebugStringConvertibleP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "showsScopeBar"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "topAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "white"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "NSForegroundColorAttributeName"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsBeginImageContext"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsGetCurrentContext"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s23CustomStringConvertibleP", "UISearchBar"]
+- !private ["s23CustomStringConvertibleP", "UITextField"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "anchor"]
+- !private ["s23CustomStringConvertibleP", "appearance"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "barTintColor"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "bottomAnchor"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "leftAnchor"]
+- !private ["s23CustomStringConvertibleP", "placeholder"]
+- !private ["s23CustomStringConvertibleP", "rgb"]
+- !private ["s23CustomStringConvertibleP", "rightAnchor"]
+- !private ["s23CustomStringConvertibleP", "scopeButtonTitles"]
+- !private ["s23CustomStringConvertibleP", "searchBar"]
+- !private ["s23CustomStringConvertibleP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s23CustomStringConvertibleP", "showsScopeBar"]
+- !private ["s23CustomStringConvertibleP", "topAnchor"]
+- !private ["s23CustomStringConvertibleP", "white"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "size"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "size"]
+- !private ["s9EquatableP", "CGRect"]
+- !private ["s9EquatableP", "NSForegroundColorAttributeName"]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "UIGraphicsBeginImageContext"]
+- !private ["s9EquatableP", "UIGraphicsEndImageContext"]
+- !private ["s9EquatableP", "UIGraphicsGetCurrentContext"]
+- !private ["s9EquatableP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s9EquatableP", "UISearchBar"]
+- !private ["s9EquatableP", "UITextField"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "anchor"]
+- !private ["s9EquatableP", "appearance"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "barTintColor"]
+- !private ["s9EquatableP", "black"]
+- !private ["s9EquatableP", "bottomAnchor"]
+- !private ["s9EquatableP", "cgColor"]
+- !private ["s9EquatableP", "fatalError"]
+- !private ["s9EquatableP", "fill"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "leftAnchor"]
+- !private ["s9EquatableP", "normal"]
+- !private ["s9EquatableP", "placeholder"]
+- !private ["s9EquatableP", "rgb"]
+- !private ["s9EquatableP", "rightAnchor"]
+- !private ["s9EquatableP", "scopeButtonTitles"]
+- !private ["s9EquatableP", "searchBar"]
+- !private ["s9EquatableP", "setFillColor"]
+- !private ["s9EquatableP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s9EquatableP", "showsScopeBar"]
+- !private ["s9EquatableP", "size"]
+- !private ["s9EquatableP", "topAnchor"]
+- !private ["s9EquatableP", "white"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "NSForegroundColorAttributeName"]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "UIGraphicsBeginImageContext"]
+- !private ["s8HashableP", "UIGraphicsEndImageContext"]
+- !private ["s8HashableP", "UIGraphicsGetCurrentContext"]
+- !private ["s8HashableP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s8HashableP", "UISearchBar"]
+- !private ["s8HashableP", "UITextField"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "anchor"]
+- !private ["s8HashableP", "appearance"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "barTintColor"]
+- !private ["s8HashableP", "black"]
+- !private ["s8HashableP", "bottomAnchor"]
+- !private ["s8HashableP", "cgColor"]
+- !private ["s8HashableP", "fatalError"]
+- !private ["s8HashableP", "fill"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "leftAnchor"]
+- !private ["s8HashableP", "placeholder"]
+- !private ["s8HashableP", "rgb"]
+- !private ["s8HashableP", "rightAnchor"]
+- !private ["s8HashableP", "scopeButtonTitles"]
+- !private ["s8HashableP", "searchBar"]
+- !private ["s8HashableP", "setFillColor"]
+- !private ["s8HashableP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s8HashableP", "showsScopeBar"]
+- !private ["s8HashableP", "topAnchor"]
+- !private ["s8HashableP", "white"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "NSForegroundColorAttributeName"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "UIGraphicsBeginImageContext"]
+- !private ["So8NSCodingP", "UIGraphicsEndImageContext"]
+- !private ["So8NSCodingP", "UIGraphicsGetCurrentContext"]
+- !private ["So8NSCodingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So8NSCodingP", "UISearchBar"]
+- !private ["So8NSCodingP", "UITextField"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "anchor"]
+- !private ["So8NSCodingP", "appearance"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "barTintColor"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "bottomAnchor"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "leftAnchor"]
+- !private ["So8NSCodingP", "placeholder"]
+- !private ["So8NSCodingP", "rgb"]
+- !private ["So8NSCodingP", "rightAnchor"]
+- !private ["So8NSCodingP", "scopeButtonTitles"]
+- !private ["So8NSCodingP", "searchBar"]
+- !private ["So8NSCodingP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So8NSCodingP", "showsScopeBar"]
+- !private ["So8NSCodingP", "topAnchor"]
+- !private ["So8NSCodingP", "white"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "rgb"]
+- !private ["So9NSCopyingP", "white"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "rgb"]
+- !private ["So21NSItemProviderReadingP", "white"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "rgb"]
+- !private ["So21NSItemProviderWritingP", "white"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "NSForegroundColorAttributeName"]
+- !private ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UIGraphicsBeginImageContext"]
+- !private ["So8NSObjectC", "UIGraphicsEndImageContext"]
+- !private ["So8NSObjectC", "UIGraphicsGetCurrentContext"]
+- !private ["So8NSObjectC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UISearchBar"]
+- !private ["So8NSObjectC", "UITextField"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "anchor"]
+- !private ["So8NSObjectC", "appearance"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "barTintColor"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "bottomAnchor"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "fatalError"]
+- ["So8NSObjectC", "imageWithColor"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "leftAnchor"]
+- !private ["So8NSObjectC", "placeholder"]
+- !private ["So8NSObjectC", "rgb"]
+- !private ["So8NSObjectC", "rightAnchor"]
+- !private ["So8NSObjectC", "scopeButtonTitles"]
+- ["So8NSObjectC", "searchBar"]
+- ["So8NSObjectC", "searchBar.storage"]
+- !private ["So8NSObjectC", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So8NSObjectC", "showsScopeBar"]
+- !private ["So8NSObjectC", "topAnchor"]
+- !private ["So8NSObjectC", "white"]
+- !private ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "NSForegroundColorAttributeName"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "UIGraphicsBeginImageContext"]
+- !private ["So16NSObjectProtocolP", "UIGraphicsEndImageContext"]
+- !private ["So16NSObjectProtocolP", "UIGraphicsGetCurrentContext"]
+- !private ["So16NSObjectProtocolP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So16NSObjectProtocolP", "UISearchBar"]
+- !private ["So16NSObjectProtocolP", "UITextField"]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "anchor"]
+- !private ["So16NSObjectProtocolP", "appearance"]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "barTintColor"]
+- !private ["So16NSObjectProtocolP", "black"]
+- !private ["So16NSObjectProtocolP", "bottomAnchor"]
+- !private ["So16NSObjectProtocolP", "cgColor"]
+- !private ["So16NSObjectProtocolP", "fatalError"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "leftAnchor"]
+- !private ["So16NSObjectProtocolP", "placeholder"]
+- !private ["So16NSObjectProtocolP", "rgb"]
+- !private ["So16NSObjectProtocolP", "rightAnchor"]
+- !private ["So16NSObjectProtocolP", "scopeButtonTitles"]
+- !private ["So16NSObjectProtocolP", "searchBar"]
+- !private ["So16NSObjectProtocolP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So16NSObjectProtocolP", "showsScopeBar"]
+- !private ["So16NSObjectProtocolP", "topAnchor"]
+- !private ["So16NSObjectProtocolP", "white"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "rgb"]
+- !private ["So14NSSecureCodingP", "white"]
+- !private ["So8NSStringC", "init"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "normal"]
+- ["8Eventful12SearchHeaderC", "CGRect"]
+- ["8Eventful12SearchHeaderC", "NSCoder"]
+- !private ["8Eventful12SearchHeaderC", "NSForegroundColorAttributeName"]
+- !private ["8Eventful12SearchHeaderC", "UIColor"]
+- !private ["8Eventful12SearchHeaderC", "UIGraphicsBeginImageContext"]
+- !private ["8Eventful12SearchHeaderC", "UIGraphicsEndImageContext"]
+- !private ["8Eventful12SearchHeaderC", "UIGraphicsGetCurrentContext"]
+- !private ["8Eventful12SearchHeaderC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["8Eventful12SearchHeaderC", "UIImage"]
+- ["8Eventful12SearchHeaderC", "UISearchBar"]
+- !private ["8Eventful12SearchHeaderC", "UITextField"]
+- !private ["8Eventful12SearchHeaderC", "addSubview"]
+- !private ["8Eventful12SearchHeaderC", "backgroundColor"]
+- !private ["8Eventful12SearchHeaderC", "bottomAnchor"]
+- ["8Eventful12SearchHeaderC", "deinit"]
+- !private ["8Eventful12SearchHeaderC", "fatalError"]
+- !private ["8Eventful12SearchHeaderC", "imageWithColor"]
+- ["8Eventful12SearchHeaderC", "init"]
+- !private ["8Eventful12SearchHeaderC", "leftAnchor"]
+- !private ["8Eventful12SearchHeaderC", "rightAnchor"]
+- ["8Eventful12SearchHeaderC", "searchBar"]
+- !private ["8Eventful12SearchHeaderC", "searchBar.storage"]
+- !private ["8Eventful12SearchHeaderC", "topAnchor"]
+- !private ["s8SequenceP", "init"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CGRect"]
+- !private ["So29UIAccessibilityIdentificationP", "NSForegroundColorAttributeName"]
+- !private ["So29UIAccessibilityIdentificationP", "UIColor"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsBeginImageContext"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsEndImageContext"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsGetCurrentContext"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So29UIAccessibilityIdentificationP", "UISearchBar"]
+- !private ["So29UIAccessibilityIdentificationP", "UITextField"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "anchor"]
+- !private ["So29UIAccessibilityIdentificationP", "appearance"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "barTintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bottomAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "fatalError"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "leftAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "placeholder"]
+- !private ["So29UIAccessibilityIdentificationP", "rightAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "scopeButtonTitles"]
+- !private ["So29UIAccessibilityIdentificationP", "searchBar"]
+- !private ["So29UIAccessibilityIdentificationP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So29UIAccessibilityIdentificationP", "showsScopeBar"]
+- !private ["So29UIAccessibilityIdentificationP", "topAnchor"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So12UIAppearanceP", "CGRect"]
+- !private ["So12UIAppearanceP", "NSForegroundColorAttributeName"]
+- !private ["So12UIAppearanceP", "UIColor"]
+- !private ["So12UIAppearanceP", "UIGraphicsBeginImageContext"]
+- !private ["So12UIAppearanceP", "UIGraphicsEndImageContext"]
+- !private ["So12UIAppearanceP", "UIGraphicsGetCurrentContext"]
+- !private ["So12UIAppearanceP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So12UIAppearanceP", "UISearchBar"]
+- !private ["So12UIAppearanceP", "UITextField"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "anchor"]
+- !private ["So12UIAppearanceP", "appearance"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "barTintColor"]
+- !private ["So12UIAppearanceP", "bottomAnchor"]
+- !private ["So12UIAppearanceP", "fatalError"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "leftAnchor"]
+- !private ["So12UIAppearanceP", "placeholder"]
+- !private ["So12UIAppearanceP", "rightAnchor"]
+- !private ["So12UIAppearanceP", "scopeButtonTitles"]
+- !private ["So12UIAppearanceP", "searchBar"]
+- !private ["So12UIAppearanceP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So12UIAppearanceP", "showsScopeBar"]
+- !private ["So12UIAppearanceP", "topAnchor"]
+- ["So12UIAppearanceP", ""]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "NSForegroundColorAttributeName"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "UIGraphicsBeginImageContext"]
+- !private ["So21UIAppearanceContainerP", "UIGraphicsEndImageContext"]
+- !private ["So21UIAppearanceContainerP", "UIGraphicsGetCurrentContext"]
+- !private ["So21UIAppearanceContainerP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So21UIAppearanceContainerP", "UISearchBar"]
+- !private ["So21UIAppearanceContainerP", "UITextField"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "anchor"]
+- !private ["So21UIAppearanceContainerP", "appearance"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "barTintColor"]
+- !private ["So21UIAppearanceContainerP", "bottomAnchor"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "leftAnchor"]
+- !private ["So21UIAppearanceContainerP", "placeholder"]
+- !private ["So21UIAppearanceContainerP", "rightAnchor"]
+- !private ["So21UIAppearanceContainerP", "scopeButtonTitles"]
+- !private ["So21UIAppearanceContainerP", "searchBar"]
+- !private ["So21UIAppearanceContainerP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So21UIAppearanceContainerP", "showsScopeBar"]
+- !private ["So21UIAppearanceContainerP", "topAnchor"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So16UIBarPositioningP", "anchor"]
+- !private ["So16UIBarPositioningP", "barTintColor"]
+- !private ["So16UIBarPositioningP", "init"]
+- !private ["So16UIBarPositioningP", "placeholder"]
+- !private ["So16UIBarPositioningP", "scopeButtonTitles"]
+- !private ["So16UIBarPositioningP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So16UIBarPositioningP", "showsScopeBar"]
+- ["So24UICollectionReusableViewC", "CGRect"]
+- ["So24UICollectionReusableViewC", "NSCoder"]
+- !private ["So24UICollectionReusableViewC", "NSForegroundColorAttributeName"]
+- !private ["So24UICollectionReusableViewC", "UIColor"]
+- !private ["So24UICollectionReusableViewC", "UIGraphicsBeginImageContext"]
+- !private ["So24UICollectionReusableViewC", "UIGraphicsEndImageContext"]
+- !private ["So24UICollectionReusableViewC", "UIGraphicsGetCurrentContext"]
+- !private ["So24UICollectionReusableViewC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So24UICollectionReusableViewC", "UIImage"]
+- ["So24UICollectionReusableViewC", "UISearchBar"]
+- !private ["So24UICollectionReusableViewC", "UITextField"]
+- !private ["So24UICollectionReusableViewC", "addSubview"]
+- !private ["So24UICollectionReusableViewC", "backgroundColor"]
+- !private ["So24UICollectionReusableViewC", "bottomAnchor"]
+- !private ["So24UICollectionReusableViewC", "fatalError"]
+- ["So24UICollectionReusableViewC", "imageWithColor"]
+- ["So24UICollectionReusableViewC", "init"]
+- !private ["So24UICollectionReusableViewC", "leftAnchor"]
+- !private ["So24UICollectionReusableViewC", "rightAnchor"]
+- ["So24UICollectionReusableViewC", "searchBar"]
+- ["So24UICollectionReusableViewC", "searchBar.storage"]
+- !private ["So24UICollectionReusableViewC", "topAnchor"]
+- ["So20UICollectionViewCellC", "CGRect"]
+- ["So20UICollectionViewCellC", "NSCoder"]
+- !private ["So20UICollectionViewCellC", "NSForegroundColorAttributeName"]
+- !private ["So20UICollectionViewCellC", "UIColor"]
+- !private ["So20UICollectionViewCellC", "UIGraphicsBeginImageContext"]
+- !private ["So20UICollectionViewCellC", "UIGraphicsEndImageContext"]
+- !private ["So20UICollectionViewCellC", "UIGraphicsGetCurrentContext"]
+- !private ["So20UICollectionViewCellC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So20UICollectionViewCellC", "UIImage"]
+- ["So20UICollectionViewCellC", "UISearchBar"]
+- !private ["So20UICollectionViewCellC", "UITextField"]
+- !private ["So20UICollectionViewCellC", "addSubview"]
+- !private ["So20UICollectionViewCellC", "backgroundColor"]
+- !private ["So20UICollectionViewCellC", "bottomAnchor"]
+- !private ["So20UICollectionViewCellC", "fatalError"]
+- ["So20UICollectionViewCellC", "imageWithColor"]
+- ["So20UICollectionViewCellC", "init"]
+- !private ["So20UICollectionViewCellC", "leftAnchor"]
+- !private ["So20UICollectionViewCellC", "rightAnchor"]
+- ["So20UICollectionViewCellC", "searchBar"]
+- ["So20UICollectionViewCellC", "searchBar.storage"]
+- !private ["So20UICollectionViewCellC", "topAnchor"]
+- ["So20UICollectionViewCellC", ""]
+- !private ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "cgColor"]
+- !private ["So7UIColorC", "rgb"]
+- !private ["So7UIColorC", "white"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "appearance"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "backgroundColor"]
+- !private ["So9UIControlC", "appearance"]
+- !private ["So9UIControlC", "backgroundColor"]
+- !private ["SC14UIControlStateV", "normal"]
+- !private ["So17UICoordinateSpaceP", "CGRect"]
+- !private ["So17UICoordinateSpaceP", "NSForegroundColorAttributeName"]
+- !private ["So17UICoordinateSpaceP", "UIColor"]
+- !private ["So17UICoordinateSpaceP", "UIGraphicsBeginImageContext"]
+- !private ["So17UICoordinateSpaceP", "UIGraphicsEndImageContext"]
+- !private ["So17UICoordinateSpaceP", "UIGraphicsGetCurrentContext"]
+- !private ["So17UICoordinateSpaceP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So17UICoordinateSpaceP", "UISearchBar"]
+- !private ["So17UICoordinateSpaceP", "UITextField"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "anchor"]
+- !private ["So17UICoordinateSpaceP", "appearance"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "barTintColor"]
+- !private ["So17UICoordinateSpaceP", "bottomAnchor"]
+- !private ["So17UICoordinateSpaceP", "fatalError"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "leftAnchor"]
+- !private ["So17UICoordinateSpaceP", "placeholder"]
+- !private ["So17UICoordinateSpaceP", "rightAnchor"]
+- !private ["So17UICoordinateSpaceP", "scopeButtonTitles"]
+- !private ["So17UICoordinateSpaceP", "searchBar"]
+- !private ["So17UICoordinateSpaceP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So17UICoordinateSpaceP", "showsScopeBar"]
+- !private ["So17UICoordinateSpaceP", "topAnchor"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So13UIDynamicItemP", "CGRect"]
+- !private ["So13UIDynamicItemP", "NSForegroundColorAttributeName"]
+- !private ["So13UIDynamicItemP", "UIColor"]
+- !private ["So13UIDynamicItemP", "UIGraphicsBeginImageContext"]
+- !private ["So13UIDynamicItemP", "UIGraphicsEndImageContext"]
+- !private ["So13UIDynamicItemP", "UIGraphicsGetCurrentContext"]
+- !private ["So13UIDynamicItemP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So13UIDynamicItemP", "UISearchBar"]
+- !private ["So13UIDynamicItemP", "UITextField"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "anchor"]
+- !private ["So13UIDynamicItemP", "appearance"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "barTintColor"]
+- !private ["So13UIDynamicItemP", "bottomAnchor"]
+- !private ["So13UIDynamicItemP", "fatalError"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "leftAnchor"]
+- !private ["So13UIDynamicItemP", "placeholder"]
+- !private ["So13UIDynamicItemP", "rightAnchor"]
+- !private ["So13UIDynamicItemP", "scopeButtonTitles"]
+- !private ["So13UIDynamicItemP", "searchBar"]
+- !private ["So13UIDynamicItemP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So13UIDynamicItemP", "showsScopeBar"]
+- !private ["So13UIDynamicItemP", "topAnchor"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "NSForegroundColorAttributeName"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "UIGraphicsBeginImageContext"]
+- !private ["So18UIFocusEnvironmentP", "UIGraphicsEndImageContext"]
+- !private ["So18UIFocusEnvironmentP", "UIGraphicsGetCurrentContext"]
+- !private ["So18UIFocusEnvironmentP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So18UIFocusEnvironmentP", "UISearchBar"]
+- !private ["So18UIFocusEnvironmentP", "UITextField"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "anchor"]
+- !private ["So18UIFocusEnvironmentP", "appearance"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "barTintColor"]
+- !private ["So18UIFocusEnvironmentP", "bottomAnchor"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "leftAnchor"]
+- !private ["So18UIFocusEnvironmentP", "placeholder"]
+- !private ["So18UIFocusEnvironmentP", "rightAnchor"]
+- !private ["So18UIFocusEnvironmentP", "scopeButtonTitles"]
+- !private ["So18UIFocusEnvironmentP", "searchBar"]
+- !private ["So18UIFocusEnvironmentP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So18UIFocusEnvironmentP", "showsScopeBar"]
+- !private ["So18UIFocusEnvironmentP", "topAnchor"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "CGRect"]
+- !private ["So11UIFocusItemP", "NSForegroundColorAttributeName"]
+- !private ["So11UIFocusItemP", "UIColor"]
+- !private ["So11UIFocusItemP", "UIGraphicsBeginImageContext"]
+- !private ["So11UIFocusItemP", "UIGraphicsEndImageContext"]
+- !private ["So11UIFocusItemP", "UIGraphicsGetCurrentContext"]
+- !private ["So11UIFocusItemP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So11UIFocusItemP", "UISearchBar"]
+- !private ["So11UIFocusItemP", "UITextField"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "anchor"]
+- !private ["So11UIFocusItemP", "appearance"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "barTintColor"]
+- !private ["So11UIFocusItemP", "bottomAnchor"]
+- !private ["So11UIFocusItemP", "fatalError"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "leftAnchor"]
+- !private ["So11UIFocusItemP", "placeholder"]
+- !private ["So11UIFocusItemP", "rightAnchor"]
+- !private ["So11UIFocusItemP", "scopeButtonTitles"]
+- !private ["So11UIFocusItemP", "searchBar"]
+- !private ["So11UIFocusItemP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So11UIFocusItemP", "showsScopeBar"]
+- !private ["So11UIFocusItemP", "topAnchor"]
+- ["So11UIFocusItemP", ""]
+- !private ["So10UIKeyInputP", "appearance"]
+- !private ["So10UIKeyInputP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSForegroundColorAttributeName"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIGraphicsBeginImageContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIGraphicsEndImageContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIGraphicsGetCurrentContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "UISearchBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "UITextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "anchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "appearance"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "barTintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bottomAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "leftAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeholder"]
+- !private ["So30UIPasteConfigurationSupportingP", "rightAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "scopeButtonTitles"]
+- !private ["So30UIPasteConfigurationSupportingP", "searchBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So30UIPasteConfigurationSupportingP", "showsScopeBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "topAnchor"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- !private ["So11UIResponderC", "NSForegroundColorAttributeName"]
+- !private ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "UIGraphicsBeginImageContext"]
+- !private ["So11UIResponderC", "UIGraphicsEndImageContext"]
+- !private ["So11UIResponderC", "UIGraphicsGetCurrentContext"]
+- !private ["So11UIResponderC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UISearchBar"]
+- !private ["So11UIResponderC", "UITextField"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "anchor"]
+- !private ["So11UIResponderC", "appearance"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- !private ["So11UIResponderC", "barTintColor"]
+- !private ["So11UIResponderC", "bottomAnchor"]
+- !private ["So11UIResponderC", "fatalError"]
+- ["So11UIResponderC", "imageWithColor"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "leftAnchor"]
+- !private ["So11UIResponderC", "placeholder"]
+- !private ["So11UIResponderC", "rightAnchor"]
+- !private ["So11UIResponderC", "scopeButtonTitles"]
+- ["So11UIResponderC", "searchBar"]
+- ["So11UIResponderC", "searchBar.storage"]
+- !private ["So11UIResponderC", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So11UIResponderC", "showsScopeBar"]
+- !private ["So11UIResponderC", "topAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "NSForegroundColorAttributeName"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "UIGraphicsBeginImageContext"]
+- !private ["So30UIResponderStandardEditActionsP", "UIGraphicsEndImageContext"]
+- !private ["So30UIResponderStandardEditActionsP", "UIGraphicsGetCurrentContext"]
+- !private ["So30UIResponderStandardEditActionsP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So30UIResponderStandardEditActionsP", "UISearchBar"]
+- !private ["So30UIResponderStandardEditActionsP", "UITextField"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "anchor"]
+- !private ["So30UIResponderStandardEditActionsP", "appearance"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "barTintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bottomAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "leftAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "placeholder"]
+- !private ["So30UIResponderStandardEditActionsP", "rightAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "scopeButtonTitles"]
+- !private ["So30UIResponderStandardEditActionsP", "searchBar"]
+- !private ["So30UIResponderStandardEditActionsP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So30UIResponderStandardEditActionsP", "showsScopeBar"]
+- !private ["So30UIResponderStandardEditActionsP", "topAnchor"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So11UISearchBarC", "anchor"]
+- !private ["So11UISearchBarC", "barTintColor"]
+- !private ["So11UISearchBarC", "init"]
+- !private ["So11UISearchBarC", "placeholder"]
+- !private ["So11UISearchBarC", "scopeButtonTitles"]
+- !private ["So11UISearchBarC", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So11UISearchBarC", "showsScopeBar"]
+- !private ["So15UITextDraggableP", "appearance"]
+- !private ["So15UITextDraggableP", "backgroundColor"]
+- !private ["So15UITextDroppableP", "appearance"]
+- !private ["So15UITextDroppableP", "backgroundColor"]
+- !private ["So11UITextFieldC", "appearance"]
+- !private ["So11UITextFieldC", "backgroundColor"]
+- !private ["So11UITextInputP", "appearance"]
+- !private ["So11UITextInputP", "backgroundColor"]
+- !private ["So17UITextInputTraitsP", "anchor"]
+- !private ["So17UITextInputTraitsP", "appearance"]
+- !private ["So17UITextInputTraitsP", "backgroundColor"]
+- !private ["So17UITextInputTraitsP", "barTintColor"]
+- !private ["So17UITextInputTraitsP", "init"]
+- !private ["So17UITextInputTraitsP", "placeholder"]
+- !private ["So17UITextInputTraitsP", "scopeButtonTitles"]
+- !private ["So17UITextInputTraitsP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So17UITextInputTraitsP", "showsScopeBar"]
+- !private ["So34UITextPasteConfigurationSupportingP", "appearance"]
+- !private ["So34UITextPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "NSForegroundColorAttributeName"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "UIGraphicsBeginImageContext"]
+- !private ["So18UITraitEnvironmentP", "UIGraphicsEndImageContext"]
+- !private ["So18UITraitEnvironmentP", "UIGraphicsGetCurrentContext"]
+- !private ["So18UITraitEnvironmentP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So18UITraitEnvironmentP", "UISearchBar"]
+- !private ["So18UITraitEnvironmentP", "UITextField"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "anchor"]
+- !private ["So18UITraitEnvironmentP", "appearance"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "barTintColor"]
+- !private ["So18UITraitEnvironmentP", "bottomAnchor"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "leftAnchor"]
+- !private ["So18UITraitEnvironmentP", "placeholder"]
+- !private ["So18UITraitEnvironmentP", "rightAnchor"]
+- !private ["So18UITraitEnvironmentP", "scopeButtonTitles"]
+- !private ["So18UITraitEnvironmentP", "searchBar"]
+- !private ["So18UITraitEnvironmentP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So18UITraitEnvironmentP", "showsScopeBar"]
+- !private ["So18UITraitEnvironmentP", "topAnchor"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- !private ["So6UIViewC", "NSForegroundColorAttributeName"]
+- !private ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "UIGraphicsBeginImageContext"]
+- !private ["So6UIViewC", "UIGraphicsEndImageContext"]
+- !private ["So6UIViewC", "UIGraphicsGetCurrentContext"]
+- !private ["So6UIViewC", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So6UIViewC", "UIImage"]
+- ["So6UIViewC", "UISearchBar"]
+- !private ["So6UIViewC", "UITextField"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "anchor"]
+- !private ["So6UIViewC", "appearance"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "barTintColor"]
+- !private ["So6UIViewC", "bottomAnchor"]
+- !private ["So6UIViewC", "fatalError"]
+- ["So6UIViewC", "imageWithColor"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "leftAnchor"]
+- !private ["So6UIViewC", "placeholder"]
+- !private ["So6UIViewC", "rightAnchor"]
+- !private ["So6UIViewC", "scopeButtonTitles"]
+- ["So6UIViewC", "searchBar"]
+- ["So6UIViewC", "searchBar.storage"]
+- !private ["So6UIViewC", "setScopeBarButtonTitleTextAttributes"]
+- !private ["So6UIViewC", "showsScopeBar"]
+- !private ["So6UIViewC", "topAnchor"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["14CoreFoundation9_CFObjectP", "fill"]
+- !private ["14CoreFoundation9_CFObjectP", "setFillColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGRect"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "NSForegroundColorAttributeName"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIGraphicsBeginImageContext"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIGraphicsEndImageContext"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIGraphicsGetCurrentContext"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UISearchBar"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UITextField"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "anchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "appearance"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barTintColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bottomAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "fatalError"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "leftAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "placeholder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "rightAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "scopeButtonTitles"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "searchBar"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showsScopeBar"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "topAnchor"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "rgb"]
+- !private ["s26_ExpressibleByColorLiteralP", "white"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSForegroundColorAttributeName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsBeginImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsEndImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsGetCurrentContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UISearchBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UITextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "anchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appearance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barTintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bottomAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leftAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeholder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rgb"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rightAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scopeButtonTitles"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "searchBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setScopeBarButtonTitleTextAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsScopeBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- !private "So9CGContextC"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "8Eventful12SearchHeaderC"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So16UIBarPositioningP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- !private "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "SC14UIControlStateV"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- !private "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So11UISearchBarC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- !private "s23_BidirectionalIndexableP"
+- !private "14CoreFoundation9_CFObjectP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Modules/SwiftyCam.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Modules/SwiftLocation.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Modules/EZSwipeController.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Modules/AFDateHelper.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Modules/AlamofireNetworkActivityIndicator.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Modules/TextFieldEffects.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "12b2be544d5d6e33934e1f95f1a3f493"

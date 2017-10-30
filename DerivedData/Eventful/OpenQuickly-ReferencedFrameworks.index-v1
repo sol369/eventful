@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>GoogleMobileAds</string>
+	<string>Cocoa</string>
+	<string>AVFoundation</string>
+	<string>FirebasePerformance</string>
+	<string>CoreLocation</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>AFDateHelper</string>
+	<string>SwiftyJSON</string>
+	<string>objc</string>
+	<string>FirebaseAuth</string>
+	<string>SwiftyCam</string>
+	<string>Firebase</string>
+	<string>FirebaseCore</string>
+	<string>FirebaseMessaging</string>
+	<string>MobileCoreServices</string>
+	<string>CoreData</string>
+	<string>sys</string>
+	<string>AlamofireImage</string>
+	<string>CoreImage</string>
+	<string>FirebaseInstanceID</string>
+	<string>CoreServices</string>
+	<string>TextFieldEffects</string>
+	<string>FirebaseDatabase</string>
+	<string>AVKit</string>
+	<string>FirebaseRemoteConfig</string>
+	<string>AlamofireNetworkActivityIndicator</string>
+	<string>MapKit</string>
+	<string>Dispatch</string>
+	<string>WatchKit</string>
+	<string>Foundation</string>
+	<string>FirebaseCrash</string>
+	<string>QuartzCore</string>
+	<string>FirebaseAppIndexing</string>
+	<string>Alamofire</string>
+	<string>SwiftLocation</string>
+	<string>EZSwipeController</string>
+	<string>AppKit</string>
+	<string>FirebaseInvites</string>
+	<string>FirebaseStorage</string>
+	<string>SystemConfiguration</string>
+	<string>CoreGraphics</string>
+	<string>FirebaseAnalytics</string>
+	<string>SVProgressHUD</string>
+	<string>UIKit</string>
+</array>
+</plist>

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "88b177c530844b0e26f4fd0bc438e67e"
+build_time: [1509311835, 15169000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/AlamofireNetworkActivityIndicator/Source/NetworkActivityIndicatorManager.swift": [1504481817, 0]

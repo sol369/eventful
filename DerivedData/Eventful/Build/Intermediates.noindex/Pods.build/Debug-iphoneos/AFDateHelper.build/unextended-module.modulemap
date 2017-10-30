@@ -1,0 +1,10 @@
+framework module AFDateHelper {
+  umbrella header "AFDateHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AFDateHelper.__Swift {
+    exclude header "AFDateHelper-Swift.h"
+}

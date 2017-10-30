@@ -1,0 +1,621 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So7UIColorC", ""]
+- ["So6UIViewC", ""]
+- ["10Foundation4DateV", ""]
+- ["Sd", ""]
+- ["So7UIColorC", "rgb"]
+- ["So6UIViewC", "anchor"]
+- ["10Foundation4DateV", "timeAgoDisplay"]
+- ["Sd", "truncator"]
+provides-dynamic-lookup:
+- "anchor"
+- "rgb"
+depends-top-level:
+- !private "!="
+- !private "*"
+- !private "-"
+- !private "/"
+- !private "<"
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "Date"
+- "Double"
+- "Int"
+- "NSLayoutXAxisAnchor"
+- "NSLayoutYAxisAnchor"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIColor"
+- "UIView"
+- !private "UnicodeScalarType"
+- !private "pow"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s19BinaryFloatingPointP", "Double"]
+- !private ["s19BinaryFloatingPointP", "Int"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s19BinaryFloatingPointP", "pow"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "bottomAnchor"]
+- !private ["So15CALayerDelegateP", "heightAnchor"]
+- !private ["So15CALayerDelegateP", "leftAnchor"]
+- !private ["So15CALayerDelegateP", "rightAnchor"]
+- !private ["So15CALayerDelegateP", "topAnchor"]
+- !private ["So15CALayerDelegateP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So15CALayerDelegateP", "widthAnchor"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "bottomAnchor"]
+- !private ["s7CVarArgP", "constraint"]
+- !private ["s7CVarArgP", "heightAnchor"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isActive"]
+- !private ["s7CVarArgP", "leftAnchor"]
+- !private ["s7CVarArgP", "pow"]
+- !private ["s7CVarArgP", "rightAnchor"]
+- !private ["s7CVarArgP", "topAnchor"]
+- !private ["s7CVarArgP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s7CVarArgP", "widthAnchor"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "Date"]
+- !private ["s10ComparableP", "Double"]
+- !private ["s10ComparableP", "Int"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "pow"]
+- !private ["s10ComparableP", "timeIntervalSince"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bottomAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "constraint"]
+- !private ["s28CustomDebugStringConvertibleP", "heightAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isActive"]
+- !private ["s28CustomDebugStringConvertibleP", "leftAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "pow"]
+- !private ["s28CustomDebugStringConvertibleP", "rightAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince"]
+- !private ["s28CustomDebugStringConvertibleP", "topAnchor"]
+- !private ["s28CustomDebugStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s28CustomDebugStringConvertibleP", "widthAnchor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Date"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Double"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Int"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "pow"]
+- !private ["s29CustomPlaygroundQuickLookableP", "timeIntervalSince"]
+- !private ["s17CustomReflectableP", "Date"]
+- !private ["s17CustomReflectableP", "Double"]
+- !private ["s17CustomReflectableP", "Int"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "pow"]
+- !private ["s17CustomReflectableP", "timeIntervalSince"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "bottomAnchor"]
+- !private ["s23CustomStringConvertibleP", "constraint"]
+- !private ["s23CustomStringConvertibleP", "heightAnchor"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isActive"]
+- !private ["s23CustomStringConvertibleP", "leftAnchor"]
+- !private ["s23CustomStringConvertibleP", "pow"]
+- !private ["s23CustomStringConvertibleP", "rightAnchor"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince"]
+- !private ["s23CustomStringConvertibleP", "topAnchor"]
+- !private ["s23CustomStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s23CustomStringConvertibleP", "widthAnchor"]
+- !private ["10Foundation4DateV", "Date"]
+- !private ["10Foundation4DateV", "Int"]
+- ["10Foundation4DateV", "String"]
+- !private ["10Foundation4DateV", "init"]
+- ["10Foundation4DateV", "timeAgoDisplay"]
+- !private ["10Foundation4DateV", "timeIntervalSince"]
+- !private ["s9DecodableP", "Date"]
+- !private ["s9DecodableP", "Double"]
+- !private ["s9DecodableP", "Int"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "pow"]
+- !private ["s9DecodableP", "timeIntervalSince"]
+- ["Sd", "Double"]
+- ["Sd", "Int"]
+- !private ["Sd", "init"]
+- !private ["Sd", "pow"]
+- ["Sd", "truncator"]
+- !private ["s9EncodableP", "Date"]
+- !private ["s9EncodableP", "Double"]
+- !private ["s9EncodableP", "Int"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "pow"]
+- !private ["s9EncodableP", "timeIntervalSince"]
+- !private ["s9EquatableP", "Date"]
+- !private ["s9EquatableP", "Double"]
+- !private ["s9EquatableP", "Int"]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "bottomAnchor"]
+- !private ["s9EquatableP", "constraint"]
+- !private ["s9EquatableP", "heightAnchor"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isActive"]
+- !private ["s9EquatableP", "leftAnchor"]
+- !private ["s9EquatableP", "pow"]
+- !private ["s9EquatableP", "rightAnchor"]
+- !private ["s9EquatableP", "timeIntervalSince"]
+- !private ["s9EquatableP", "topAnchor"]
+- !private ["s9EquatableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s9EquatableP", "widthAnchor"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "Double"]
+- !private ["s25ExpressibleByFloatLiteralP", "Int"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "pow"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Double"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Int"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "pow"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s13FloatingPointP", "Double"]
+- !private ["s13FloatingPointP", "Int"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s13FloatingPointP", "pow"]
+- !private ["s8HashableP", "Date"]
+- !private ["s8HashableP", "Double"]
+- !private ["s8HashableP", "Int"]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "bottomAnchor"]
+- !private ["s8HashableP", "constraint"]
+- !private ["s8HashableP", "heightAnchor"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isActive"]
+- !private ["s8HashableP", "leftAnchor"]
+- !private ["s8HashableP", "pow"]
+- !private ["s8HashableP", "rightAnchor"]
+- !private ["s8HashableP", "timeIntervalSince"]
+- !private ["s8HashableP", "topAnchor"]
+- !private ["s8HashableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s8HashableP", "widthAnchor"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "Double"]
+- !private ["s25LosslessStringConvertibleP", "Int"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "pow"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "bottomAnchor"]
+- !private ["So8NSCodingP", "heightAnchor"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "leftAnchor"]
+- !private ["So8NSCodingP", "rightAnchor"]
+- !private ["So8NSCodingP", "topAnchor"]
+- !private ["So8NSCodingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSCodingP", "widthAnchor"]
+- !private ["So9NSCopyingP", "UIColor"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "UIColor"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "UIColor"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So14NSLayoutAnchorC", "constraint"]
+- !private ["So18NSLayoutConstraintC", "isActive"]
+- !private ["So17NSLayoutDimensionC", "constraint"]
+- !private ["So19NSLayoutXAxisAnchorC", "constraint"]
+- !private ["So19NSLayoutYAxisAnchorC", "constraint"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "NSLayoutXAxisAnchor"]
+- ["So8NSObjectC", "NSLayoutYAxisAnchor"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "anchor"]
+- !private ["So8NSObjectC", "bottomAnchor"]
+- !private ["So8NSObjectC", "constraint"]
+- !private ["So8NSObjectC", "heightAnchor"]
+- !private ["So8NSObjectC", "isActive"]
+- !private ["So8NSObjectC", "leftAnchor"]
+- ["So8NSObjectC", "rgb"]
+- !private ["So8NSObjectC", "rightAnchor"]
+- !private ["So8NSObjectC", "topAnchor"]
+- !private ["So8NSObjectC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSObjectC", "widthAnchor"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "bottomAnchor"]
+- !private ["So16NSObjectProtocolP", "constraint"]
+- !private ["So16NSObjectProtocolP", "heightAnchor"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isActive"]
+- !private ["So16NSObjectProtocolP", "leftAnchor"]
+- !private ["So16NSObjectProtocolP", "rightAnchor"]
+- !private ["So16NSObjectProtocolP", "topAnchor"]
+- !private ["So16NSObjectProtocolP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So16NSObjectProtocolP", "widthAnchor"]
+- !private ["So14NSSecureCodingP", "UIColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "Double"]
+- !private ["s7NumericP", "Int"]
+- !private ["s7NumericP", "init"]
+- !private ["s7NumericP", "pow"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "Date"]
+- !private ["10Foundation20ReferenceConvertibleP", "Int"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "Double"]
+- !private ["s13SignedNumericP", "Int"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "pow"]
+- !private ["s10StrideableP", "Double"]
+- !private ["s10StrideableP", "Int"]
+- !private ["s10StrideableP", "init"]
+- !private ["s10StrideableP", "pow"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "bottomAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "heightAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "leftAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "rightAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "topAnchor"]
+- !private ["So29UIAccessibilityIdentificationP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So29UIAccessibilityIdentificationP", "widthAnchor"]
+- !private ["So12UIAppearanceP", "bottomAnchor"]
+- !private ["So12UIAppearanceP", "heightAnchor"]
+- !private ["So12UIAppearanceP", "leftAnchor"]
+- !private ["So12UIAppearanceP", "rightAnchor"]
+- !private ["So12UIAppearanceP", "topAnchor"]
+- !private ["So12UIAppearanceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So12UIAppearanceP", "widthAnchor"]
+- !private ["So21UIAppearanceContainerP", "bottomAnchor"]
+- !private ["So21UIAppearanceContainerP", "heightAnchor"]
+- !private ["So21UIAppearanceContainerP", "leftAnchor"]
+- !private ["So21UIAppearanceContainerP", "rightAnchor"]
+- !private ["So21UIAppearanceContainerP", "topAnchor"]
+- !private ["So21UIAppearanceContainerP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So21UIAppearanceContainerP", "widthAnchor"]
+- ["So7UIColorC", "CGFloat"]
+- ["So7UIColorC", "UIColor"]
+- !private ["So7UIColorC", "init"]
+- ["So7UIColorC", "rgb"]
+- !private ["So17UICoordinateSpaceP", "bottomAnchor"]
+- !private ["So17UICoordinateSpaceP", "heightAnchor"]
+- !private ["So17UICoordinateSpaceP", "leftAnchor"]
+- !private ["So17UICoordinateSpaceP", "rightAnchor"]
+- !private ["So17UICoordinateSpaceP", "topAnchor"]
+- !private ["So17UICoordinateSpaceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So17UICoordinateSpaceP", "widthAnchor"]
+- !private ["So13UIDynamicItemP", "bottomAnchor"]
+- !private ["So13UIDynamicItemP", "heightAnchor"]
+- !private ["So13UIDynamicItemP", "leftAnchor"]
+- !private ["So13UIDynamicItemP", "rightAnchor"]
+- !private ["So13UIDynamicItemP", "topAnchor"]
+- !private ["So13UIDynamicItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So13UIDynamicItemP", "widthAnchor"]
+- !private ["So18UIFocusEnvironmentP", "bottomAnchor"]
+- !private ["So18UIFocusEnvironmentP", "heightAnchor"]
+- !private ["So18UIFocusEnvironmentP", "leftAnchor"]
+- !private ["So18UIFocusEnvironmentP", "rightAnchor"]
+- !private ["So18UIFocusEnvironmentP", "topAnchor"]
+- !private ["So18UIFocusEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UIFocusEnvironmentP", "widthAnchor"]
+- !private ["So11UIFocusItemP", "bottomAnchor"]
+- !private ["So11UIFocusItemP", "heightAnchor"]
+- !private ["So11UIFocusItemP", "leftAnchor"]
+- !private ["So11UIFocusItemP", "rightAnchor"]
+- !private ["So11UIFocusItemP", "topAnchor"]
+- !private ["So11UIFocusItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIFocusItemP", "widthAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bottomAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "heightAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "leftAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "rightAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "topAnchor"]
+- !private ["So30UIPasteConfigurationSupportingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "widthAnchor"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "NSLayoutXAxisAnchor"]
+- ["So11UIResponderC", "NSLayoutYAxisAnchor"]
+- ["So11UIResponderC", "anchor"]
+- !private ["So11UIResponderC", "bottomAnchor"]
+- !private ["So11UIResponderC", "heightAnchor"]
+- !private ["So11UIResponderC", "leftAnchor"]
+- !private ["So11UIResponderC", "rightAnchor"]
+- !private ["So11UIResponderC", "topAnchor"]
+- !private ["So11UIResponderC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIResponderC", "widthAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "bottomAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "heightAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "leftAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "rightAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "topAnchor"]
+- !private ["So30UIResponderStandardEditActionsP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "widthAnchor"]
+- !private ["So18UITraitEnvironmentP", "bottomAnchor"]
+- !private ["So18UITraitEnvironmentP", "heightAnchor"]
+- !private ["So18UITraitEnvironmentP", "leftAnchor"]
+- !private ["So18UITraitEnvironmentP", "rightAnchor"]
+- !private ["So18UITraitEnvironmentP", "topAnchor"]
+- !private ["So18UITraitEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UITraitEnvironmentP", "widthAnchor"]
+- ["So6UIViewC", "CGFloat"]
+- ["So6UIViewC", "NSLayoutXAxisAnchor"]
+- ["So6UIViewC", "NSLayoutYAxisAnchor"]
+- ["So6UIViewC", "anchor"]
+- !private ["So6UIViewC", "bottomAnchor"]
+- !private ["So6UIViewC", "heightAnchor"]
+- !private ["So6UIViewC", "leftAnchor"]
+- !private ["So6UIViewC", "rightAnchor"]
+- !private ["So6UIViewC", "topAnchor"]
+- !private ["So6UIViewC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So6UIViewC", "widthAnchor"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "Double"]
+- !private ["s15_CVarArgAlignedP", "Int"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "pow"]
+- !private ["s22_CVarArgPassedAsDoubleP", "Double"]
+- !private ["s22_CVarArgPassedAsDoubleP", "Int"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "pow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bottomAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "heightAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "leftAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "rightAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "topAnchor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "widthAnchor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "Double"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "Int"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "pow"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "Double"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "Int"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "pow"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "UIColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bottomAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constraint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "heightAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isActive"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leftAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rightAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topAnchor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "widthAnchor"]
+- !private ["s21_ObjectiveCBridgeableP", "Date"]
+- !private ["s21_ObjectiveCBridgeableP", "Double"]
+- !private ["s21_ObjectiveCBridgeableP", "Int"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "pow"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "Double"]
+- !private ["s11_StrideableP", "Int"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s11_StrideableP", "pow"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- !private "s9DecodableP"
+- "Sd"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s13FloatingPointP"
+- !private "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So14NSLayoutAnchorC"
+- !private "So18NSLayoutConstraintC"
+- !private "So17NSLayoutDimensionC"
+- !private "So19NSLayoutXAxisAnchorC"
+- !private "So19NSLayoutYAxisAnchorC"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftyCam/SwiftyCam.framework/Modules/SwiftyCam.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/SwiftLocation/SwiftLocation.framework/Modules/SwiftLocation.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/EZSwipeController/EZSwipeController.framework/Modules/EZSwipeController.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AFDateHelper/AFDateHelper.framework/Modules/AFDateHelper.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework/Modules/AlamofireNetworkActivityIndicator.swiftmodule/arm64.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Products/Debug-iphoneos/TextFieldEffects/TextFieldEffects.framework/Modules/TextFieldEffects.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "fc8b2c66f42063cb7843f26efde1791f"

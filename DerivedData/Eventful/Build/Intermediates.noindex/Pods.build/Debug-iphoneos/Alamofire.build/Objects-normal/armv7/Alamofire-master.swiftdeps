@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "f127d260ace9eabebf9f6a84765f9406"
+build_time: [1509311815, 433765000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/AFError.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Alamofire.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/MultipartFormData.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Notifications.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/ParameterEncoding.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Request.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Response.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/ResponseSerialization.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Result.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/SessionDelegate.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/SessionManager.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/TaskDelegate.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Timeline.swift": [1504481817, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Alamofire/Source/Validation.swift": [1504481817, 0]

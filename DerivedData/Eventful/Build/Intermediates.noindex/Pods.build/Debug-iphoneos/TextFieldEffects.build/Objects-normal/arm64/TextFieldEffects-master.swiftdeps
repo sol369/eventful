@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "96a2c2f67272d2704ad1bebb46d26a17"
+build_time: [1508702783, 125074000]
+inputs:
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/AkiraTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/HoshiTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/IsaoTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/JiroTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/KaedeTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/MadokaTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/MinoruTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/TextFieldEffects.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/YokoTextField.swift": [1504481818, 0]
+  "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/TextFieldEffects/TextFieldEffects/TextFieldEffects/YoshikoTextField.swift": [1504481818, 0]

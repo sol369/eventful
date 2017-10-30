@@ -1,0 +1,670 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LocObserver"
+- "LocationRequest"
+- "=="
+provides-nominal:
+- "13SwiftLocation11LocObserverO"
+- "13SwiftLocation0B7RequestC"
+provides-member:
+- ["13SwiftLocation11LocObserverO", ""]
+- ["13SwiftLocation0B7RequestC", ""]
+provides-dynamic-lookup:
+- "timeoutTimerFired"
+depends-top-level:
+- !private "!="
+- "=="
+- !private ">"
+- !private "??"
+- "Accuracy"
+- "AssignmentPrecedence"
+- "Authorization"
+- "Bool"
+- "BooleanLiteralType"
+- "CLActivityType"
+- "CLAuthorizationStatus"
+- "CLLocation"
+- "CLLocationDistance"
+- "Context"
+- "Error"
+- "Frequency"
+- "Int"
+- "LocObserver"
+- !private "Location"
+- !private "LocationError"
+- "LocationRequest"
+- "NSUUID"
+- "Request"
+- "RequestState"
+- "String"
+- !private "StringLiteralType"
+- "TimeInterval"
+- "Timer"
+- !private "UnicodeScalarType"
+- "Void"
+- !private "||"
+depends-member:
+- ["13SwiftLocation8AccuracyO", "IPScan"]
+- !private ["13SwiftLocation8AccuracyO", "deinit"]
+- !private ["13SwiftLocation8AccuracyO", "isValid"]
+- !private ["Sa", "append"]
+- !private ["Sa", "forEach"]
+- !private ["13SwiftLocation13AuthorizationO", "always"]
+- !private ["13SwiftLocation13AuthorizationO", "inuse"]
+- !private ["13SwiftLocation13AuthorizationO", "none"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "forEach"]
+- !private ["s23BidirectionalCollectionP", "hash"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["SC14CLActivityTypeO", "other"]
+- !private ["So10CLLocationC", "distance"]
+- !private ["So25CLLocationManagerDelegateP", "cancel"]
+- !private ["So25CLLocationManagerDelegateP", "isQueued"]
+- !private ["So25CLLocationManagerDelegateP", "pause"]
+- !private ["So25CLLocationManagerDelegateP", "start"]
+- !private ["So25CLLocationManagerDelegateP", "updateLocationServices"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "distance"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "hash"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invalidate"]
+- !private ["s7CVarArgP", "isQueued"]
+- !private ["s7CVarArgP", "pause"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "start"]
+- !private ["s7CVarArgP", "updateLocationServices"]
+- ["s7CVarArgP", "uuidString"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s10CollectionP", "hash"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "always"]
+- ["s10ComparableP", "deferredUntil"]
+- !private ["s10ComparableP", "hash"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "inuse"]
+- !private ["s10ComparableP", "none"]
+- !private ["s10ComparableP", "oneShot"]
+- ["s10ComparableP", "significant"]
+- !private ["13SwiftLocation7ContextO", "main"]
+- !private ["13SwiftLocation7ContextO", "queue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "distance"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "isQueued"]
+- !private ["s28CustomDebugStringConvertibleP", "pause"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "updateLocationServices"]
+- ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hash"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "hash"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "IPScan"]
+- !private ["s23CustomStringConvertibleP", "LocObserver"]
+- !private ["s23CustomStringConvertibleP", "Location"]
+- !private ["s23CustomStringConvertibleP", "LocationError"]
+- ["s23CustomStringConvertibleP", "NSUUID"]
+- !private ["s23CustomStringConvertibleP", "Timer"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_previousState"]
+- !private ["s23CustomStringConvertibleP", "_state"]
+- !private ["s23CustomStringConvertibleP", "accuracy"]
+- !private ["s23CustomStringConvertibleP", "always"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "cancelOnError"]
+- ["s23CustomStringConvertibleP", "deferredUntil"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "dispatch"]
+- !private ["s23CustomStringConvertibleP", "distance"]
+- !private ["s23CustomStringConvertibleP", "executeIPLocationRequest"]
+- !private ["s23CustomStringConvertibleP", "failed"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "frequency"]
+- !private ["s23CustomStringConvertibleP", "getLocationFromIP"]
+- !private ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- ["s23CustomStringConvertibleP", "idle"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "inuse"]
+- !private ["s23CustomStringConvertibleP", "invalidate"]
+- ["s23CustomStringConvertibleP", "isBackgroundRequest"]
+- ["s23CustomStringConvertibleP", "isInQueue"]
+- !private ["s23CustomStringConvertibleP", "isQueued"]
+- !private ["s23CustomStringConvertibleP", "isValid"]
+- !private ["s23CustomStringConvertibleP", "isValidMinimumDistance"]
+- !private ["s23CustomStringConvertibleP", "lastLocation"]
+- !private ["s23CustomStringConvertibleP", "minimumDistance"]
+- ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "none"]
+- ["s23CustomStringConvertibleP", "onCancel"]
+- ["s23CustomStringConvertibleP", "onPause"]
+- ["s23CustomStringConvertibleP", "onResume"]
+- !private ["s23CustomStringConvertibleP", "onStateChange"]
+- !private ["s23CustomStringConvertibleP", "oneShot"]
+- ["s23CustomStringConvertibleP", "other"]
+- ["s23CustomStringConvertibleP", "pause"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "registeredCallbacks"]
+- ["s23CustomStringConvertibleP", "requiredAuth"]
+- ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- ["s23CustomStringConvertibleP", "significant"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "startTimeout"]
+- ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "stopRequestIfNeeded"]
+- !private ["s23CustomStringConvertibleP", "stopTimeout"]
+- !private ["s23CustomStringConvertibleP", "timeout"]
+- !private ["s23CustomStringConvertibleP", "timeoutTimer"]
+- !private ["s23CustomStringConvertibleP", "timeoutTimerFired"]
+- !private ["s23CustomStringConvertibleP", "updateLocationServices"]
+- ["s23CustomStringConvertibleP", "uuidString"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9DecodableP", "hash"]
+- !private ["s9DecodableP", "init"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EncodableP", "hash"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "LocObserver"]
+- !private ["s9EquatableP", "Location"]
+- !private ["s9EquatableP", "LocationError"]
+- ["s9EquatableP", "NSUUID"]
+- !private ["s9EquatableP", "Timer"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "_previousState"]
+- !private ["s9EquatableP", "_state"]
+- !private ["s9EquatableP", "accuracy"]
+- !private ["s9EquatableP", "always"]
+- !private ["s9EquatableP", "async"]
+- ["s9EquatableP", "cancel"]
+- !private ["s9EquatableP", "cancelOnError"]
+- ["s9EquatableP", "deferredUntil"]
+- ["s9EquatableP", "description"]
+- ["s9EquatableP", "dispatch"]
+- !private ["s9EquatableP", "distance"]
+- !private ["s9EquatableP", "executeIPLocationRequest"]
+- !private ["s9EquatableP", "failed"]
+- !private ["s9EquatableP", "frequency"]
+- !private ["s9EquatableP", "hash"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "identifier"]
+- ["s9EquatableP", "idle"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "inuse"]
+- !private ["s9EquatableP", "invalidate"]
+- ["s9EquatableP", "isBackgroundRequest"]
+- ["s9EquatableP", "isInQueue"]
+- !private ["s9EquatableP", "isQueued"]
+- !private ["s9EquatableP", "isValidMinimumDistance"]
+- !private ["s9EquatableP", "lastLocation"]
+- !private ["s9EquatableP", "minimumDistance"]
+- ["s9EquatableP", "name"]
+- !private ["s9EquatableP", "none"]
+- ["s9EquatableP", "onCancel"]
+- ["s9EquatableP", "onPause"]
+- ["s9EquatableP", "onResume"]
+- !private ["s9EquatableP", "onStateChange"]
+- !private ["s9EquatableP", "oneShot"]
+- ["s9EquatableP", "other"]
+- ["s9EquatableP", "pause"]
+- !private ["s9EquatableP", "register"]
+- !private ["s9EquatableP", "registeredCallbacks"]
+- ["s9EquatableP", "requiredAuth"]
+- ["s9EquatableP", "resume"]
+- !private ["s9EquatableP", "scheduledTimer"]
+- ["s9EquatableP", "significant"]
+- !private ["s9EquatableP", "start"]
+- !private ["s9EquatableP", "startTimeout"]
+- ["s9EquatableP", "state"]
+- !private ["s9EquatableP", "stopRequestIfNeeded"]
+- !private ["s9EquatableP", "stopTimeout"]
+- !private ["s9EquatableP", "timeout"]
+- !private ["s9EquatableP", "timeoutTimer"]
+- !private ["s9EquatableP", "timeoutTimerFired"]
+- !private ["s9EquatableP", "updateLocationServices"]
+- ["s9EquatableP", "uuidString"]
+- ["s9EquatableP", ""]
+- !private ["s5ErrorP", "timeout"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hash"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "hash"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hash"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["13SwiftLocation9FrequencyO", "deferredUntil"]
+- !private ["13SwiftLocation9FrequencyO", "deinit"]
+- !private ["13SwiftLocation9FrequencyO", "oneShot"]
+- ["13SwiftLocation9FrequencyO", "significant"]
+- !private ["s8HashableP", "LocObserver"]
+- !private ["s8HashableP", "Location"]
+- !private ["s8HashableP", "LocationError"]
+- ["s8HashableP", "NSUUID"]
+- !private ["s8HashableP", "Timer"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_previousState"]
+- !private ["s8HashableP", "_state"]
+- !private ["s8HashableP", "accuracy"]
+- !private ["s8HashableP", "always"]
+- !private ["s8HashableP", "async"]
+- ["s8HashableP", "cancel"]
+- !private ["s8HashableP", "cancelOnError"]
+- ["s8HashableP", "description"]
+- ["s8HashableP", "dispatch"]
+- !private ["s8HashableP", "distance"]
+- !private ["s8HashableP", "executeIPLocationRequest"]
+- !private ["s8HashableP", "failed"]
+- !private ["s8HashableP", "frequency"]
+- !private ["s8HashableP", "hash"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "identifier"]
+- ["s8HashableP", "idle"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "inuse"]
+- !private ["s8HashableP", "invalidate"]
+- ["s8HashableP", "isBackgroundRequest"]
+- ["s8HashableP", "isInQueue"]
+- !private ["s8HashableP", "isQueued"]
+- !private ["s8HashableP", "isValidMinimumDistance"]
+- !private ["s8HashableP", "lastLocation"]
+- !private ["s8HashableP", "minimumDistance"]
+- ["s8HashableP", "name"]
+- !private ["s8HashableP", "none"]
+- ["s8HashableP", "onCancel"]
+- ["s8HashableP", "onPause"]
+- ["s8HashableP", "onResume"]
+- !private ["s8HashableP", "onStateChange"]
+- ["s8HashableP", "other"]
+- ["s8HashableP", "pause"]
+- !private ["s8HashableP", "register"]
+- !private ["s8HashableP", "registeredCallbacks"]
+- ["s8HashableP", "requiredAuth"]
+- ["s8HashableP", "resume"]
+- !private ["s8HashableP", "scheduledTimer"]
+- !private ["s8HashableP", "start"]
+- !private ["s8HashableP", "startTimeout"]
+- ["s8HashableP", "state"]
+- !private ["s8HashableP", "stopRequestIfNeeded"]
+- !private ["s8HashableP", "stopTimeout"]
+- !private ["s8HashableP", "timeout"]
+- !private ["s8HashableP", "timeoutTimer"]
+- !private ["s8HashableP", "timeoutTimerFired"]
+- !private ["s8HashableP", "updateLocationServices"]
+- ["s8HashableP", "uuidString"]
+- ["s8HashableP", ""]
+- !private ["13SwiftLocation9IPServiceV", "getLocationFromIP"]
+- ["13SwiftLocation11LocObserverO", "CLAuthorizationStatus"]
+- ["13SwiftLocation11LocObserverO", "CLLocation"]
+- ["13SwiftLocation11LocObserverO", "Context"]
+- ["13SwiftLocation11LocObserverO", "Error"]
+- ["13SwiftLocation11LocObserverO", "LocationRequest"]
+- ["13SwiftLocation11LocObserverO", "Void"]
+- ["13SwiftLocation11LocObserverO", "onAuthChange"]
+- ["13SwiftLocation11LocObserverO", "onAuthDidChange"]
+- ["13SwiftLocation11LocObserverO", "onError"]
+- ["13SwiftLocation11LocObserverO", "onErrorOccurred"]
+- ["13SwiftLocation11LocObserverO", "onReceiveLocation"]
+- ["13SwiftLocation11LocObserverO", "onSuccess"]
+- !private ["13SwiftLocation0B5ErrorO", "deinit"]
+- !private ["13SwiftLocation0B5ErrorO", "timeout"]
+- ["13SwiftLocation0B7RequestC", "Accuracy"]
+- ["13SwiftLocation0B7RequestC", "Authorization"]
+- ["13SwiftLocation0B7RequestC", "Bool"]
+- ["13SwiftLocation0B7RequestC", "CLActivityType"]
+- ["13SwiftLocation0B7RequestC", "CLAuthorizationStatus"]
+- ["13SwiftLocation0B7RequestC", "CLLocation"]
+- ["13SwiftLocation0B7RequestC", "CLLocationDistance"]
+- ["13SwiftLocation0B7RequestC", "Error"]
+- ["13SwiftLocation0B7RequestC", "Frequency"]
+- ["13SwiftLocation0B7RequestC", "Int"]
+- ["13SwiftLocation0B7RequestC", "LocObserver"]
+- !private ["13SwiftLocation0B7RequestC", "Location"]
+- !private ["13SwiftLocation0B7RequestC", "LocationError"]
+- ["13SwiftLocation0B7RequestC", "NSUUID"]
+- ["13SwiftLocation0B7RequestC", "RequestState"]
+- ["13SwiftLocation0B7RequestC", "String"]
+- ["13SwiftLocation0B7RequestC", "TimeInterval"]
+- ["13SwiftLocation0B7RequestC", "Timer"]
+- ["13SwiftLocation0B7RequestC", "Void"]
+- ["13SwiftLocation0B7RequestC", "_previousState"]
+- ["13SwiftLocation0B7RequestC", "_state"]
+- ["13SwiftLocation0B7RequestC", "accuracy"]
+- ["13SwiftLocation0B7RequestC", "activity"]
+- ["13SwiftLocation0B7RequestC", "cancel"]
+- ["13SwiftLocation0B7RequestC", "cancelOnError"]
+- ["13SwiftLocation0B7RequestC", "deinit"]
+- ["13SwiftLocation0B7RequestC", "description"]
+- ["13SwiftLocation0B7RequestC", "dispatch"]
+- ["13SwiftLocation0B7RequestC", "dispatchAuthChange"]
+- ["13SwiftLocation0B7RequestC", "executeIPLocationRequest"]
+- ["13SwiftLocation0B7RequestC", "frequency"]
+- ["13SwiftLocation0B7RequestC", "hashValue"]
+- !private ["13SwiftLocation0B7RequestC", "identifier"]
+- ["13SwiftLocation0B7RequestC", "init"]
+- ["13SwiftLocation0B7RequestC", "isBackgroundRequest"]
+- ["13SwiftLocation0B7RequestC", "isInQueue"]
+- !private ["13SwiftLocation0B7RequestC", "isValidMinimumDistance"]
+- ["13SwiftLocation0B7RequestC", "lastError"]
+- ["13SwiftLocation0B7RequestC", "lastLocation"]
+- ["13SwiftLocation0B7RequestC", "minimumDistance"]
+- ["13SwiftLocation0B7RequestC", "name"]
+- ["13SwiftLocation0B7RequestC", "onCancel"]
+- ["13SwiftLocation0B7RequestC", "onPause"]
+- ["13SwiftLocation0B7RequestC", "onResume"]
+- ["13SwiftLocation0B7RequestC", "onStateChange"]
+- ["13SwiftLocation0B7RequestC", "pause"]
+- ["13SwiftLocation0B7RequestC", "register"]
+- ["13SwiftLocation0B7RequestC", "registeredCallbacks"]
+- ["13SwiftLocation0B7RequestC", "requiredAuth"]
+- ["13SwiftLocation0B7RequestC", "resume"]
+- !private ["13SwiftLocation0B7RequestC", "startTimeout"]
+- ["13SwiftLocation0B7RequestC", "state"]
+- !private ["13SwiftLocation0B7RequestC", "stopRequestIfNeeded"]
+- !private ["13SwiftLocation0B7RequestC", "stopTimeout"]
+- ["13SwiftLocation0B7RequestC", "timeout"]
+- !private ["13SwiftLocation0B7RequestC", "timeoutTimer"]
+- ["13SwiftLocation0B7RequestC", "timeoutTimerFired"]
+- !private ["13SwiftLocation0B7TrackerC", "cancel"]
+- !private ["13SwiftLocation0B7TrackerC", "isQueued"]
+- !private ["13SwiftLocation0B7TrackerC", "pause"]
+- !private ["13SwiftLocation0B7TrackerC", "start"]
+- !private ["13SwiftLocation0B7TrackerC", "updateLocationServices"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hash"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hash"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "forEach"]
+- !private ["So8NSCodingP", "distance"]
+- !private ["So8NSCodingP", "hash"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "uuidString"]
+- !private ["So9NSCopyingP", "distance"]
+- !private ["So9NSCopyingP", "hash"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "uuidString"]
+- !private ["So21NSItemProviderReadingP", "hash"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "hash"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "hash"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "distance"]
+- !private ["So8NSObjectC", "hash"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "invalidate"]
+- !private ["So8NSObjectC", "isQueued"]
+- !private ["So8NSObjectC", "pause"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- !private ["So8NSObjectC", "start"]
+- !private ["So8NSObjectC", "updateLocationServices"]
+- ["So8NSObjectC", "uuidString"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "cancel"]
+- !private ["So16NSObjectProtocolP", "distance"]
+- !private ["So16NSObjectProtocolP", "hash"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "invalidate"]
+- !private ["So16NSObjectProtocolP", "isQueued"]
+- !private ["So16NSObjectProtocolP", "pause"]
+- !private ["So16NSObjectProtocolP", "scheduledTimer"]
+- !private ["So16NSObjectProtocolP", "start"]
+- !private ["So16NSObjectProtocolP", "updateLocationServices"]
+- ["So16NSObjectProtocolP", "uuidString"]
+- !private ["So14NSSecureCodingP", "distance"]
+- !private ["So14NSSecureCodingP", "hash"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "uuidString"]
+- !private ["So8NSStringC", "hash"]
+- !private ["So8NSStringC", "init"]
+- ["So6NSUUIDC", "init"]
+- ["So6NSUUIDC", "uuidString"]
+- !private ["So9OS_objectC", "async"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "forEach"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "forEach"]
+- !private ["s26RangeReplaceableCollectionP", "hash"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "other"]
+- !private ["13SwiftLocation7RequestP", "LocObserver"]
+- !private ["13SwiftLocation7RequestP", "Location"]
+- !private ["13SwiftLocation7RequestP", "LocationError"]
+- ["13SwiftLocation7RequestP", "NSUUID"]
+- !private ["13SwiftLocation7RequestP", "Timer"]
+- !private ["13SwiftLocation7RequestP", "_previousState"]
+- !private ["13SwiftLocation7RequestP", "_state"]
+- !private ["13SwiftLocation7RequestP", "accuracy"]
+- ["13SwiftLocation7RequestP", "cancel"]
+- !private ["13SwiftLocation7RequestP", "cancelOnError"]
+- ["13SwiftLocation7RequestP", "description"]
+- ["13SwiftLocation7RequestP", "dispatch"]
+- !private ["13SwiftLocation7RequestP", "executeIPLocationRequest"]
+- !private ["13SwiftLocation7RequestP", "frequency"]
+- ["13SwiftLocation7RequestP", "hashValue"]
+- !private ["13SwiftLocation7RequestP", "identifier"]
+- ["13SwiftLocation7RequestP", "isBackgroundRequest"]
+- ["13SwiftLocation7RequestP", "isInQueue"]
+- !private ["13SwiftLocation7RequestP", "isValidMinimumDistance"]
+- !private ["13SwiftLocation7RequestP", "lastLocation"]
+- !private ["13SwiftLocation7RequestP", "minimumDistance"]
+- ["13SwiftLocation7RequestP", "name"]
+- ["13SwiftLocation7RequestP", "onCancel"]
+- ["13SwiftLocation7RequestP", "onPause"]
+- ["13SwiftLocation7RequestP", "onResume"]
+- !private ["13SwiftLocation7RequestP", "onStateChange"]
+- ["13SwiftLocation7RequestP", "pause"]
+- !private ["13SwiftLocation7RequestP", "register"]
+- !private ["13SwiftLocation7RequestP", "registeredCallbacks"]
+- ["13SwiftLocation7RequestP", "requiredAuth"]
+- ["13SwiftLocation7RequestP", "resume"]
+- !private ["13SwiftLocation7RequestP", "startTimeout"]
+- ["13SwiftLocation7RequestP", "state"]
+- !private ["13SwiftLocation7RequestP", "stopRequestIfNeeded"]
+- !private ["13SwiftLocation7RequestP", "stopTimeout"]
+- !private ["13SwiftLocation7RequestP", "timeout"]
+- !private ["13SwiftLocation7RequestP", "timeoutTimer"]
+- !private ["13SwiftLocation7RequestP", "timeoutTimerFired"]
+- ["13SwiftLocation7RequestP", ""]
+- !private ["13SwiftLocation12RequestStateO", "deinit"]
+- !private ["13SwiftLocation12RequestStateO", "failed"]
+- ["13SwiftLocation12RequestStateO", "idle"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "hash"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "hash"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "hash"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "hash"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "hash"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So5TimerC", "invalidate"]
+- !private ["So5TimerC", "scheduledTimer"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "forEach"]
+- !private ["s23_BidirectionalIndexableP", "hash"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hash"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hash"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "hash"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hash"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "hash"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hash"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "uuidString"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "forEach"]
+- !private ["s10_IndexableP", "hash"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- !private ["s14_IndexableBaseP", "hash"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "distance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hash"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isQueued"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pause"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateLocationServices"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "uuidString"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "hash"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "forEach"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "forEach"]
+- !private ["s26_RangeReplaceableIndexableP", "hash"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "hash"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "13SwiftLocation8AccuracyO"
+- !private "Sa"
+- !private "13SwiftLocation13AuthorizationO"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "SC14CLActivityTypeO"
+- !private "So10CLLocationC"
+- !private "So25CLLocationManagerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "s10ComparableP"
+- !private "13SwiftLocation7ContextO"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "13SwiftLocation9FrequencyO"
+- "s8HashableP"
+- !private "13SwiftLocation9IPServiceV"
+- "13SwiftLocation11LocObserverO"
+- !private "13SwiftLocation0B5ErrorO"
+- "13SwiftLocation0B7RequestC"
+- !private "13SwiftLocation0B7TrackerC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "So6NSUUIDC"
+- !private "So9OS_objectC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "13SwiftLocation7RequestP"
+- "13SwiftLocation12RequestStateO"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So5TimerC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/Pods/Target Support Files/SwiftLocation/SwiftLocation-umbrella.h"
+- "/Users/sol369/Desktop/EventfulApp/Eventful/DerivedData/Eventful/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftLocation.build/unextended-module.modulemap"
+interface-hash: "3ec5babfd95393bfc5b97d8ecf245652"
